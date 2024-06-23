@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: d_dog_Atlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 8
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: a8869652ef595c94399415fdbc0ce90e, type: 3}
+    - {fileID: 2800000, guid: 02aa1fb9b17c82b4e8d7c508e67bd36f, type: 3}
+    - {fileID: 2800000, guid: 99140b55b6d7e63498ec8718c49cdcfe, type: 3}
+    - {fileID: 2800000, guid: 7404dd77440dd0d42ae28382895fb690, type: 3}
+    - {fileID: 2800000, guid: 64a69741db470424f945a6cf6530def7, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 64a69741db470424f945a6cf6530def7, type: 3}
+  - {fileID: 21300000, guid: a8869652ef595c94399415fdbc0ce90e, type: 3}
+  - {fileID: 21300000, guid: 99140b55b6d7e63498ec8718c49cdcfe, type: 3}
+  - {fileID: 21300000, guid: 7404dd77440dd0d42ae28382895fb690, type: 3}
+  - {fileID: 21300000, guid: 02aa1fb9b17c82b4e8d7c508e67bd36f, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - d_duck
+  - d_dog
+  - d_donut
+  - d_dress
+  - d_doctor
+  m_RenderDataMap: {}
+  m_Tag: d_dog_Atlas
+  m_IsVariant: 0

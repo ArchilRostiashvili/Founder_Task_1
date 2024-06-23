@@ -1,0 +1,25 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" xsi="http://www.w3.org/2001/XMLSchema-instance" engine="UnityEngine.UIElements" editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../../UIElementsSchema/UIElements.xsd" editor-extension-mode="True">
+    <ui:VisualElement name="root_element" style="flex-grow: 1;">
+        <ui:VisualElement name="version_display_container" class="custom_container" style="flex-grow: 0; align-items: flex-end;">
+            <ui:VisualElement name="version_field_container" class="custom_horizontal_container" style="flex-grow: 1;">
+                <ui:Label text="Android Build" display-tooltip-when-elided="true" name="version_name_label" class="custom_field_label" />
+                <ui:VisualElement name="version_display_field_container" style="flex-direction: row; flex-shrink: 25;">
+                    <ui:TextField picking-mode="Ignore" label="Version:" value="filler text" text="9.01.8" name="version_number_field" max-length="15" class="custom_field" />
+                    <uie:IntegerField label="Build Number:" value="42" name="build_number_field" class="custom_field" />
+                </ui:VisualElement>
+            </ui:VisualElement>
+            <ui:Button text="Apply Chages" display-tooltip-when-elided="true" name="version_apply_button" style="flex-shrink: 1; margin-top: 4px; width: auto; padding-left: 13px; padding-right: 13px;" />
+        </ui:VisualElement>
+        <ui:VisualElement name="border" style="border-top-width: 2px; border-top-color: rgb(87, 87, 87); flex-grow: 0; height: 1px;" />
+        <ui:VisualElement name="build_system_container" style="flex-grow: 1; justify-content: space-between;">
+            <ui:VisualElement name="build_system_settings_container" class="custom_container">
+                <ui:Toggle label="Auto Increment Build Version" name="increment_build_version_toggle" class="custom_toggle_field" />
+                <ui:Toggle label="Auto Update Build Name" name="rename_build_version_toggle" class="custom_toggle_field" />
+            </ui:VisualElement>
+            <ui:VisualElement name="build_system_buttons_container" class="custom_horizontal_container custom_container" style="justify-content: flex-end;">
+                <ui:Button text="Cancel" display-tooltip-when-elided="true" name="cancel_button" class="custom_button" />
+                <ui:Button text="Continue Build" display-tooltip-when-elided="true" name="build_button" class="custom_button" />
+            </ui:VisualElement>
+        </ui:VisualElement>
+    </ui:VisualElement>
+</ui:UXML>

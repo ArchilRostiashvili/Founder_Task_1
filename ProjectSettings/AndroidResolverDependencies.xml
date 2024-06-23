@@ -1,0 +1,43 @@
+<dependencies>
+  <packages>
+    <package>androidx.browser:browser:1.3.0</package>
+    <package>androidx.room:room-common:2.4.2</package>
+    <package>androidx.room:room-runtime:2.4.2</package>
+    <package>com.google.android.play:core:1.10.0</package>
+  </packages>
+  <files>
+    <file>Assets/Plugins/Android/androidx.annotation.annotation-1.1.0.jar</file>
+    <file>Assets/Plugins/Android/androidx.annotation.annotation-experimental-1.1.0.aar</file>
+    <file>Assets/Plugins/Android/androidx.arch.core.core-common-2.0.1.jar</file>
+    <file>Assets/Plugins/Android/androidx.arch.core.core-runtime-2.0.1.aar</file>
+    <file>Assets/Plugins/Android/androidx.browser.browser-1.3.0.aar</file>
+    <file>Assets/Plugins/Android/androidx.collection.collection-1.1.0.jar</file>
+    <file>Assets/Plugins/Android/androidx.concurrent.concurrent-futures-1.0.0.jar</file>
+    <file>Assets/Plugins/Android/androidx.core.core-1.1.0.aar</file>
+    <file>Assets/Plugins/Android/androidx.interpolator.interpolator-1.0.0.aar</file>
+    <file>Assets/Plugins/Android/androidx.lifecycle.lifecycle-common-2.0.0.jar</file>
+    <file>Assets/Plugins/Android/androidx.lifecycle.lifecycle-runtime-2.0.0.aar</file>
+    <file>Assets/Plugins/Android/androidx.room.room-common-2.4.2.jar</file>
+    <file>Assets/Plugins/Android/androidx.room.room-runtime-2.4.2.aar</file>
+    <file>Assets/Plugins/Android/androidx.sqlite.sqlite-2.2.0.aar</file>
+    <file>Assets/Plugins/Android/androidx.sqlite.sqlite-framework-2.2.0.aar</file>
+    <file>Assets/Plugins/Android/androidx.versionedparcelable.versionedparcelable-1.1.0.aar</file>
+    <file>Assets/Plugins/Android/com.google.android.play.core-1.10.0.aar</file>
+    <file>Assets/Plugins/Android/com.google.guava.listenablefuture-1.0.jar</file>
+  </files>
+  <settings>
+    <setting name="androidAbis" value="arm64-v8a,armeabi-v7a" />
+    <setting name="bundleId" value="bebi.family.kids.farm" />
+    <setting name="explodeAars" value="True" />
+    <setting name="gradleBuildEnabled" value="True" />
+    <setting name="gradlePropertiesTemplateEnabled" value="False" />
+    <setting name="gradleTemplateEnabled" value="False" />
+    <setting name="installAndroidPackages" value="True" />
+    <setting name="localMavenRepoDir" value="Assets/GeneratedLocalRepo" />
+    <setting name="packageDir" value="Assets/Plugins/Android" />
+    <setting name="patchAndroidManifest" value="True" />
+    <setting name="patchMainTemplateGradle" value="True" />
+    <setting name="projectExportEnabled" value="False" />
+    <setting name="useJetifier" value="True" />
+  </settings>
+</dependencies>

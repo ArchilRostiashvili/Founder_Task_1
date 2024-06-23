@@ -1,0 +1,186 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &1530524908702890
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4637712735309372}
+  - component: {fileID: 114876475358167682}
+  m_Layer: 5
+  m_Name: SShapesManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 4294967295
+  m_IsActive: 1
+--- !u!4 &4637712735309372
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1530524908702890}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &114876475358167682
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1530524908702890}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 42a276494aba161438d5def8e1b5ecbf, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  shapes:
+  - showContents: 1
+    prefab: {fileID: 1374139172901276, guid: e7f4149a85469d948b6532154aa0ab80, type: 3}
+    picture: {fileID: 21300000, guid: 884e61166f6c9c748ba83337c73418ea, type: 3}
+    clip: {fileID: 8300000, guid: ff01c2b03103d8e49bbe5a665b80b5e2, type: 3}
+    starsTimePeriod: 15
+    ID: -1
+    isLocked: 1
+  - showContents: 1
+    prefab: {fileID: 1848845456767888, guid: 6f258e5e3b970a248a2baa4002986e00, type: 3}
+    picture: {fileID: 21300000, guid: 2e4a756375fb43743b275ad58f06ea78, type: 3}
+    clip: {fileID: 8300000, guid: 467353b081bda4d4faa270830b02f237, type: 3}
+    starsTimePeriod: 15
+    ID: -1
+    isLocked: 1
+  - showContents: 1
+    prefab: {fileID: 1916814426159802, guid: fda951fe3d47ba14a948cdecdcfaf4c4, type: 3}
+    picture: {fileID: 21300000, guid: 1649f0412c59f2d4a8bef70e11e5fe25, type: 3}
+    clip: {fileID: 8300000, guid: 86cb1c8d75c09fa468b577805b09a02e, type: 3}
+    starsTimePeriod: 15
+    ID: -1
+    isLocked: 1
+  - showContents: 1
+    prefab: {fileID: 1631331099546320, guid: 4f7fcaf93abb06d4a8661b8ed92f1b07, type: 3}
+    picture: {fileID: 0}
+    clip: {fileID: 8300000, guid: 41a65f86562c7144194ee3bd27e9d605, type: 3}
+    starsTimePeriod: 15
+    ID: -1
+    isLocked: 1
+  - showContents: 1
+    prefab: {fileID: 1512009916838190, guid: 37e03b26bd1db3f43b77dd9da1c2cac2, type: 3}
+    picture: {fileID: 0}
+    clip: {fileID: 8300000, guid: 76bd94efa80e80f4dbaaffc84c8cd354, type: 3}
+    starsTimePeriod: 15
+    ID: -1
+    isLocked: 1
+  - showContents: 1
+    prefab: {fileID: 1598407585257228, guid: 51ceb0ca24b7ee240863c57ab409168a, type: 3}
+    picture: {fileID: 0}
+    clip: {fileID: 0}
+    starsTimePeriod: 15
+    ID: -1
+    isLocked: 1
+  - showContents: 1
+    prefab: {fileID: 1693597514264140, guid: 5e2d183a26b4fa74f9e0df8b2502ac98, type: 3}
+    picture: {fileID: 0}
+    clip: {fileID: 0}
+    starsTimePeriod: 15
+    ID: -1
+    isLocked: 1
+  - showContents: 1
+    prefab: {fileID: 1351962852960472, guid: 51b89cb17a4577842ad971d543945213, type: 3}
+    picture: {fileID: 0}
+    clip: {fileID: 8300000, guid: 615a9697d3f4e634aa8c1071c2fcff68, type: 3}
+    starsTimePeriod: 15
+    ID: -1
+    isLocked: 1
+  - showContents: 1
+    prefab: {fileID: 1688055320973078, guid: b299d23ca1660264daffe2aa6821b5c7, type: 3}
+    picture: {fileID: 0}
+    clip: {fileID: 0}
+    starsTimePeriod: 15
+    ID: -1
+    isLocked: 1
+  - showContents: 1
+    prefab: {fileID: 1316166945788314, guid: ca3f67bd8dce9664d92ac17e4f273e01, type: 3}
+    picture: {fileID: 0}
+    clip: {fileID: 8300000, guid: 588edf15b21028b458891e4570acec8c, type: 3}
+    starsTimePeriod: 15
+    ID: -1
+    isLocked: 1
+  - showContents: 1
+    prefab: {fileID: 1037319050115308, guid: da422c28a88d2e2499b75d7ed6ca6123, type: 3}
+    picture: {fileID: 0}
+    clip: {fileID: 8300000, guid: dbad684d7b9a4a6459af6e37852e269f, type: 3}
+    starsTimePeriod: 15
+    ID: -1
+    isLocked: 1
+  - showContents: 1
+    prefab: {fileID: 1363859085233920, guid: 9bf2dfcb97e25d84390f91b407b44e8e, type: 3}
+    picture: {fileID: 0}
+    clip: {fileID: 0}
+    starsTimePeriod: 15
+    ID: -1
+    isLocked: 1
+  - showContents: 1
+    prefab: {fileID: 1122388689717774, guid: 589ae0e8ffc473644afc7645c08c0614, type: 3}
+    picture: {fileID: 0}
+    clip: {fileID: 0}
+    starsTimePeriod: 15
+    ID: -1
+    isLocked: 1
+  - showContents: 1
+    prefab: {fileID: 1808724029459258, guid: 5f13b2d4ffded774797759c4bb5e8211, type: 3}
+    picture: {fileID: 0}
+    clip: {fileID: 0}
+    starsTimePeriod: 15
+    ID: -1
+    isLocked: 1
+  - showContents: 1
+    prefab: {fileID: 1173924577781654, guid: 11372a6d7635de644bd681a55da1ff84, type: 3}
+    picture: {fileID: 0}
+    clip: {fileID: 0}
+    starsTimePeriod: 15
+    ID: -1
+    isLocked: 1
+  - showContents: 1
+    prefab: {fileID: 1862152021301602, guid: 8772e2f6688182d418c913e709ba5d63, type: 3}
+    picture: {fileID: 0}
+    clip: {fileID: 0}
+    starsTimePeriod: 15
+    ID: -1
+    isLocked: 1
+  - showContents: 1
+    prefab: {fileID: 1286712821523072, guid: 54950d84417f88746aeeaa95fdf42885, type: 3}
+    picture: {fileID: 0}
+    clip: {fileID: 8300000, guid: 7d353257c4c32724ab156bcae2e3765b, type: 3}
+    starsTimePeriod: 15
+    ID: -1
+    isLocked: 1
+  - showContents: 1
+    prefab: {fileID: 1822163339042592, guid: a75f7c078fb7ee84bba60d9ac2b4ec96, type: 3}
+    picture: {fileID: 0}
+    clip: {fileID: 8300000, guid: a591df5f0999b4445a26eea9b6c3ecf2, type: 3}
+    starsTimePeriod: 15
+    ID: -1
+    isLocked: 1
+  shapeLabel: Word
+  shapePrefix: Sentence
+  sceneName: Album
+  albumTitle: {fileID: 21300000, guid: 0d2dc80cd6cb8504788b7ce1597f5a20, type: 3}
+  albumShapeScaleFactor: 0.4
+  AlbumShapeLineWidth: 1.03
+  GameShapeLineWidth: 1.31
+  AlbumCompoundShapeLineWidth: 0.28
+  GameCompoundShapeLineWidth: 0.28
+  lastSelectedGroup: 0
+  tracingMode: 1
+  testMode: 0
+  enableTracingLimit: 0

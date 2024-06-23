@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fd07a100c84240e4183dc1209ff75508, type: 3}
+  m_Name: PromotionTextContainerSO
+  m_EditorClassIdentifier: 
+  _promotionPopUp:
+    languageID: en
+    textEntries:
+    - textKey: TEXT_EXPIRED_HEADER
+      infortext: Free Trial Expired
+    - textKey: TEXT_EXPIRED_DESCRIPTION
+      infortext: 'Your extended free trial has expired,
+
+        subscription-only
+        games are locked now.
+
+        We hope you enjoyed them in the trial period.'
+    - textKey: TEXT_EXPIRED_FREE_TRIAL_INFO
+      infortext: 'You''re still eligible to get the additional {0}{sub_trial_length}
+        day free trial{1}
+
+        with the button below, If you''ve never been subscribed
+        to our app before.'
+    - textKey: TEXT_EXPIRING_HEADER
+      infortext: Free Trial Expiring
+    - textKey: TEXT_EXPIRING_WARINIG
+      infortext: 'Your extended free trial
+
+        is expiring in {exp_day_count}
+        days'
+    - textKey: TEXT_EXPIRING_INFO
+      infortext: "After which, you'll still be eligible to get the\nadditional {0}{sub_trial_length}
+        day free trial{1}, If you've never been\nsubscribed \nto our app before."
+    - textKey: TEXT_ACTIVE_HEADER
+      infortext: Extended Free Trial
+    - textKey: TEXT_ACTIVE_DESCRIPTION_HEADER
+      infortext: Extended free trial activated!
+    - textKey: TEXT_ACTIVE_DESCRIPTION
+      infortext: 'Users who download the app before {start_date}
+
+        get an
+        additional {0}{promotion_length} days free trial{1}.'
+    - textKey: TEXT_ACTIVE_INFO
+      infortext: 'You have all the games
+
+        unlocked until {end_date}'
+    - textKey: TEXT_ACTIVE_ENJOY
+      infortext: Enjoy!
+    - textKey: TEXT_OK
+      infortext: OK
+    - textKey: TEXT_SUBSCRIBE
+      infortext: SUBSCRIBE
+    - textKey: TEXT_EXTENDED_FREE_TRIAL
+      infortext: Extended Free Trial
+    - textKey: TEXT_FREE_TRAL_EXPIRING
+      infortext: Free Trial Expiring
+    - textKey: TEXT_FREE_TRAL_EXPIRED
+      infortext: Free Trial Expired

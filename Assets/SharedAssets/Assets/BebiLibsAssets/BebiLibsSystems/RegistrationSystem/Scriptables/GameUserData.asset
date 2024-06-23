@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 58e5271486996594fa382ae00b5622f2, type: 3}
+  m_Name: GameUserData
+  m_EditorClassIdentifier: 
+  _userToken:
+    rawToken: 
+    jwtId: 1889a621-a175-4434-a38f-811ecf051930
+    sessionId: fa070734-9c9a-4c83-aaf1-03888df46fb5
+    dev: 982137d6-9006-4de3-8b04-949e7eebb2f3
+    userName: 
+    userID: 
+    userEmail: 
+    notValidBefore:
+      _timeSinceEpoch: -62135596800
+      _kind: 1
+      _displayTime: 1/1/0001 12:00:00 AM
+      _day: 1
+      _month: 1
+      _year: 1
+      _hours: 0
+      _minutes: 0
+      _seconds: 0
+    expirationTime:
+      _timeSinceEpoch: -62135596800
+      _kind: 1
+      _displayTime: 1/1/0001 12:00:00 AM
+      _day: 1
+      _month: 1
+      _year: 1
+      _hours: 0
+      _minutes: 0
+      _seconds: 0
+    issuedAtTime:
+      _timeSinceEpoch: -62135596800
+      _kind: 1
+      _displayTime: 1/1/0001 12:00:00 AM
+      _day: 1
+      _month: 1
+      _year: 1
+      _hours: 0
+      _minutes: 0
+      _seconds: 0
+    issuer: bebi-family.fndr.dev
+    audience: f463a2e8-18e8-4436-a8a5-5bab5d80717d
+  _signUserOutOnNextStartUp: 0
+  _signInProvider: 0

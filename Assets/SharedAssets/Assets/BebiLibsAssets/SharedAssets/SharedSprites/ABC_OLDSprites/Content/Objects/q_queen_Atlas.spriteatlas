@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: q_queen_Atlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 8
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: 5d27e4b1fe74bca41836021cf82fd292, type: 3}
+    - {fileID: 2800000, guid: 5434a86268543694896ff7f12dd0347a, type: 3}
+    - {fileID: 2800000, guid: d1b57d9c7bb09324f82a8d8e91886acd, type: 3}
+    - {fileID: 2800000, guid: d75f961eb1af5d146bc10bae045e2a3e, type: 3}
+    - {fileID: 2800000, guid: a65ee66df0a41be4eac668cc5fe91ee0, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 5d27e4b1fe74bca41836021cf82fd292, type: 3}
+  - {fileID: 21300000, guid: 5434a86268543694896ff7f12dd0347a, type: 3}
+  - {fileID: 21300000, guid: d1b57d9c7bb09324f82a8d8e91886acd, type: 3}
+  - {fileID: 21300000, guid: a65ee66df0a41be4eac668cc5fe91ee0, type: 3}
+  - {fileID: 21300000, guid: d75f961eb1af5d146bc10bae045e2a3e, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - q_queen
+  - q_quack
+  - q_question
+  - q_quail
+  - q_quiet
+  m_RenderDataMap: {}
+  m_Tag: q_queen_Atlas
+  m_IsVariant: 0

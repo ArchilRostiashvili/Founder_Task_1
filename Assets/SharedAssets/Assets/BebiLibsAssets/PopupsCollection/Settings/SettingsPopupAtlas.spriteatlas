@@ -1,0 +1,100 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: SettingsPopupAtlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 8
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: ba45c5ac1473b7045871de37e34f29be, type: 3}
+    - {fileID: 2800000, guid: ed07d19d97a5db742be3d15e39d94a06, type: 3}
+    - {fileID: 2800000, guid: af20ee3684e10244f81fb19acee5c2c0, type: 3}
+    - {fileID: 2800000, guid: ba2e4fc3ffe914f40bacb733b3f4f511, type: 3}
+    - {fileID: 2800000, guid: 2750e4234c4151e4c82f6641a998aa34, type: 3}
+    - {fileID: 2800000, guid: cc3c4ab0189b650458d9dbaaba014228, type: 3}
+    - {fileID: 2800000, guid: 460b6409c3e0a3b46b36e6f5f6288a38, type: 3}
+    - {fileID: 2800000, guid: 40f9935b3a799744e9e714a681bf3f77, type: 3}
+    - {fileID: 2800000, guid: 165c7ea02d404524ba000300dc78ec04, type: 3}
+    - {fileID: 2800000, guid: e9ed1f7337647a04d9f948ca598da90d, type: 3}
+    - {fileID: 2800000, guid: bc35413bd43c5244f930742bfc0938b0, type: 3}
+    - {fileID: 2800000, guid: 6091cd9cfb6b1434c8fe6343ca19589b, type: 3}
+    - {fileID: 2800000, guid: 293f81822d02d1b4dad3d85d11eae6f0, type: 3}
+    - {fileID: 2800000, guid: 85dfc5ca18c7ad24e81f5c45dda68361, type: 3}
+    - {fileID: 2800000, guid: 416f665de4108c74eaea25154d337164, type: 3}
+    - {fileID: 2800000, guid: d2b7af5957a5405479674222fa29caea, type: 3}
+    - {fileID: 2800000, guid: d681017fabe995c4198ffa8702d1a281, type: 3}
+    - {fileID: 2800000, guid: 813ec14f8766eb4488c454f7c4078ae3, type: 3}
+    - {fileID: 2800000, guid: 0a539afe6935a084b9a210353b00b688, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 165c7ea02d404524ba000300dc78ec04, type: 3}
+  - {fileID: 21300000, guid: cc3c4ab0189b650458d9dbaaba014228, type: 3}
+  - {fileID: 21300000, guid: 293f81822d02d1b4dad3d85d11eae6f0, type: 3}
+  - {fileID: 21300000, guid: 2750e4234c4151e4c82f6641a998aa34, type: 3}
+  - {fileID: 21300000, guid: e9ed1f7337647a04d9f948ca598da90d, type: 3}
+  - {fileID: 21300000, guid: ba2e4fc3ffe914f40bacb733b3f4f511, type: 3}
+  - {fileID: 21300000, guid: af20ee3684e10244f81fb19acee5c2c0, type: 3}
+  - {fileID: 21300000, guid: 460b6409c3e0a3b46b36e6f5f6288a38, type: 3}
+  - {fileID: 21300000, guid: d2b7af5957a5405479674222fa29caea, type: 3}
+  - {fileID: 21300000, guid: 85dfc5ca18c7ad24e81f5c45dda68361, type: 3}
+  - {fileID: 21300000, guid: bc35413bd43c5244f930742bfc0938b0, type: 3}
+  - {fileID: 21300000, guid: 40f9935b3a799744e9e714a681bf3f77, type: 3}
+  - {fileID: 21300000, guid: 6091cd9cfb6b1434c8fe6343ca19589b, type: 3}
+  - {fileID: 21300000, guid: ba45c5ac1473b7045871de37e34f29be, type: 3}
+  - {fileID: 21300000, guid: 416f665de4108c74eaea25154d337164, type: 3}
+  - {fileID: 21300000, guid: ed07d19d97a5db742be3d15e39d94a06, type: 3}
+  - {fileID: 21300000, guid: 0a539afe6935a084b9a210353b00b688, type: 3}
+  - {fileID: 21300000, guid: 813ec14f8766eb4488c454f7c4078ae3, type: 3}
+  - {fileID: 21300000, guid: d681017fabe995c4198ffa8702d1a281, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - icon_sound_off
+  - icon_hand_on
+  - music
+  - icon_hand_off
+  - icon_sound_on
+  - icon_cog
+  - deactive
+  - icon_music_off
+  - right_hand
+  - off_button
+  - language_back
+  - icon_music_on
+  - left_hand
+  - active_blick
+  - on_button
+  - age
+  - sound_effects
+  - settings_on_back
+  - settings_off_back
+  m_RenderDataMap: {}
+  m_Tag: SettingsPopupAtlas
+  m_IsVariant: 0

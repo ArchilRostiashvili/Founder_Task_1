@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: c_cake_Atlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 8
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: eb33c69f61a0ed040bb30d4cf31dfec9, type: 3}
+    - {fileID: 2800000, guid: f71b5f5d8df34864bba1dfa63b179bfd, type: 3}
+    - {fileID: 2800000, guid: aa877f95b527d2e40a4a6d3efafba197, type: 3}
+    - {fileID: 2800000, guid: 791556b46e1b24f49b13360db21121a1, type: 3}
+    - {fileID: 2800000, guid: 1f9daab8546f1bd45ad41e2d42befdbb, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 791556b46e1b24f49b13360db21121a1, type: 3}
+  - {fileID: 21300000, guid: aa877f95b527d2e40a4a6d3efafba197, type: 3}
+  - {fileID: 21300000, guid: 1f9daab8546f1bd45ad41e2d42befdbb, type: 3}
+  - {fileID: 21300000, guid: f71b5f5d8df34864bba1dfa63b179bfd, type: 3}
+  - {fileID: 21300000, guid: eb33c69f61a0ed040bb30d4cf31dfec9, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - c_crab
+  - c_cat
+  - c_car
+  - c_clown
+  - c_cake
+  m_RenderDataMap: {}
+  m_Tag: c_cake_Atlas
+  m_IsVariant: 0

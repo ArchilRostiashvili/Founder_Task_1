@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 448e77aaa0394234bad88896aa61c1bf, type: 3}
+  m_Name: DrawingApp_German_AudioLocalData
+  m_EditorClassIdentifier: 
+  _identifier: {fileID: 11400000, guid: aa3e6740f373dc64094d367a6639e97c, type: 2}
+  _folderPath: Assets/Sounds/localized_voicelines/German
+  _assetLabelToPreload:
+    m_LabelString: German
+  _isEditorOnly: 0
+  _audioAssetReferenceList:
+  - AssetName: fx_tx_lets_start_the_adventure
+    LocalAssetName: fx_tx_lets_start_the_adventure_de
+    AddressableAudioReference:
+      m_AssetGUID: 74ef129dfb33c4f4cb34ceafa67540a8
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    PreloadAsset: 0
+    HasAssetReference: 1
+  - AssetName: fx_tx_welcome_to_puzzle_adventure
+    LocalAssetName: fx_tx_welcome_to_puzzle_adventure_de
+    AddressableAudioReference:
+      m_AssetGUID: 702ed12f75d81594fb4ec5d7ff70fce9
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    PreloadAsset: 0
+    HasAssetReference: 1
+  - AssetName: fx_tx_swipe_your_finger_on_the_image
+    LocalAssetName: fx_tx_swipe_your_finger_on_the_image_de
+    AddressableAudioReference:
+      m_AssetGUID: 6e15b4f0b9870ad48834f6a6a7fd2721
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    PreloadAsset: 0
+    HasAssetReference: 1
+  - AssetName: fx_tx_tap_on_image_to_color
+    LocalAssetName: fx_tx_tap_on_image_to_color_de
+    AddressableAudioReference:
+      m_AssetGUID: c198d78fcaf5ea04a83fe655f9bd4ef7
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    PreloadAsset: 0
+    HasAssetReference: 1
+  ModulesPath:
+    _folderPath: 
+    _folderAbsolutePath: 
+    _folderGuid: 
+    _folderPathType: 0

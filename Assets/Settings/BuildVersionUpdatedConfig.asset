@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 388e8ca24d307054d8101d287c24e193, type: 3}
+  m_Name: BuildVersionUpdatedConfig
+  m_EditorClassIdentifier: 
+  BuildVersionDataList:
+  - BuildVersionName: StandaloneWindows64
+    AppBuildTarget: 19
+    VersionString: 1.0
+    BuildNumber: 2
+  - BuildVersionName: Android Build
+    AppBuildTarget: 13
+    VersionString: 1.0
+    BuildNumber: 49
+  - BuildVersionName: iOS Build
+    AppBuildTarget: 9
+    VersionString: 1.0
+    BuildNumber: 0
+  IncrementBuildVersion: 1
+  RenameBuildVersion: 1

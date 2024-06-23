@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 705919e06daf9e041b264783b22a1b8d, type: 3}
+  m_Name: AmazonPurchaseController
+  m_EditorClassIdentifier: 
+  _storeType: 30
+  _purchaseIdentifierList:
+  - {fileID: 11400000, guid: 7091ee674c27707408be4bf404c54ad7, type: 2}
+  - {fileID: 11400000, guid: 2e99b47522d4f004287f4088fb41ab9a, type: 2}
+  _userData: {fileID: 11400000, guid: 37d3dd5d92678974ab9f91ef2d283464, type: 2}
+  _purchaseHistoryData: {fileID: 11400000, guid: 76c21676a9665fd4eaa6b09881665504, type: 2}
+  _amazonReceiptParser: {fileID: 11400000, guid: 4d23f5945fd54624b9a82a835fb40115, type: 2}
+  _purchaseDataList: []

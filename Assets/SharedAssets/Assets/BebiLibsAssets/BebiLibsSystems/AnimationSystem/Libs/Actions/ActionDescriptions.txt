@@ -1,0 +1,48 @@
+/////////////////////////////////////////////////////////////////////////////////
+
+---Action_BebiAnimatorCaller
+
+Has the ability to call specific animations from BebiAnimator
+
+/////////////////////////////////////////////////////////////////////////////////
+
+---Action_ComponentActivation
+
+Has the ability to disable/enable any component attached to specific gameobject
+
+/////////////////////////////////////////////////////////////////////////////////
+
+---Action_FunctionCaller
+
+Has the ability to call any function on any script attached to specific gameobject
+
+/////////////////////////////////////////////////////////////////////////////////
+
+---Action_GameObjectActivation
+
+Has the ability to disable/enable any specified gameobject
+
+/////////////////////////////////////////////////////////////////////////////////
+
+---Action_ParticlePlayer
+
+Has the ability to Play/Stop any referenced particle system
+
+/////////////////////////////////////////////////////////////////////////////////
+
+--Action_SoundPlayer
+
+Has the ability to play any referenced AudioTrackSO (Including: Sequences, Simple tracks, Collections etc.)
+
+/////////////////////////////////////////////////////////////////////////////////
+
+--Action_SpriteRendererColorSetter
+
+Has the ability to set specified color to referenced sprite renderer. NOTE: changing this color doesn't nessesary mean that sprite
+will have specified color, it's most likely that color of the sprite and referenced color will combine, resulting in completely new color.
+
+/////////////////////////////////////////////////////////////////////////////////
+
+--Action_TriggerUnityAnimation
+
+Has the ability to trigger Mecanim (Native unity animator) animations which are transitionable by triggers

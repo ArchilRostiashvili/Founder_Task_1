@@ -1,0 +1,100 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: SharedPopupAtlass_Don'tModifiy
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: 1a8cb88b7df107142a4c6215ef8136ee, type: 3}
+    - {fileID: 2800000, guid: e22ffe3fbb136ef4fae5a2450263d961, type: 3}
+    - {fileID: 2800000, guid: 15b4acb9382e49e4694efc8ce0b2aaec, type: 3}
+    - {fileID: 2800000, guid: 0deb2b3037755eb43a3c1ec0fc681ee9, type: 3}
+    - {fileID: 2800000, guid: ac44a9819af9f354387e20c830ad89b9, type: 3}
+    - {fileID: 2800000, guid: 92faa5f7bc0e27d44a64cf7aa91eee06, type: 3}
+    - {fileID: 2800000, guid: 320fcee6f088c94438bb4c4e2034fc3f, type: 3}
+    - {fileID: 2800000, guid: 7ed03253a9865a6428e29627dc73efd3, type: 3}
+    - {fileID: 2800000, guid: a5a60fcfa4dc2be4c9a6c80ec09c8df3, type: 3}
+    - {fileID: 2800000, guid: 039134aba01b82845945574d8405a9f0, type: 3}
+    - {fileID: 2800000, guid: 1133e5244c46288428af2404be7b4a49, type: 3}
+    - {fileID: 2800000, guid: fd87e358c5c95e64bb64bf40a6811ed0, type: 3}
+    - {fileID: 2800000, guid: 6369632f6e0258c4fa90752dac9895b0, type: 3}
+    - {fileID: 2800000, guid: 7dc0234fb3011f343a08b5c8b971c898, type: 3}
+    - {fileID: 2800000, guid: ae91f80b7a19f9846825109da2d172f2, type: 3}
+    - {fileID: 2800000, guid: b08658fcbea14a749ae9bf02e4d9a3ae, type: 3}
+    - {fileID: 2800000, guid: 1109efceaf6628a4b932690fa071b111, type: 3}
+    - {fileID: 2800000, guid: 9453559871f853f4582f80962756fb69, type: 3}
+    - {fileID: 2800000, guid: f919b9765e84214439af849ef2ed572f, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 0deb2b3037755eb43a3c1ec0fc681ee9, type: 3}
+  - {fileID: 21300000, guid: ac44a9819af9f354387e20c830ad89b9, type: 3}
+  - {fileID: 21300000, guid: 7ed03253a9865a6428e29627dc73efd3, type: 3}
+  - {fileID: 21300000, guid: 1133e5244c46288428af2404be7b4a49, type: 3}
+  - {fileID: 21300000, guid: f919b9765e84214439af849ef2ed572f, type: 3}
+  - {fileID: 21300000, guid: 320fcee6f088c94438bb4c4e2034fc3f, type: 3}
+  - {fileID: 21300000, guid: 92faa5f7bc0e27d44a64cf7aa91eee06, type: 3}
+  - {fileID: 21300000, guid: fd87e358c5c95e64bb64bf40a6811ed0, type: 3}
+  - {fileID: 21300000, guid: 9453559871f853f4582f80962756fb69, type: 3}
+  - {fileID: 21300000, guid: 15b4acb9382e49e4694efc8ce0b2aaec, type: 3}
+  - {fileID: 21300000, guid: ae91f80b7a19f9846825109da2d172f2, type: 3}
+  - {fileID: 21300000, guid: 1a8cb88b7df107142a4c6215ef8136ee, type: 3}
+  - {fileID: 21300000, guid: 039134aba01b82845945574d8405a9f0, type: 3}
+  - {fileID: 21300000, guid: b08658fcbea14a749ae9bf02e4d9a3ae, type: 3}
+  - {fileID: 21300000, guid: 1109efceaf6628a4b932690fa071b111, type: 3}
+  - {fileID: 21300000, guid: 6369632f6e0258c4fa90752dac9895b0, type: 3}
+  - {fileID: 21300000, guid: e22ffe3fbb136ef4fae5a2450263d961, type: 3}
+  - {fileID: 21300000, guid: 7dc0234fb3011f343a08b5c8b971c898, type: 3}
+  - {fileID: 21300000, guid: a5a60fcfa4dc2be4c9a6c80ec09c8df3, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - backGround_thick_outline
+  - button_home
+  - header_container
+  - Loading_Particle
+  - deselected
+  - header
+  - container
+  - icon_done
+  - selected
+  - background_share
+  - icon_star
+  - back_button
+  - Popup_Header_BG
+  - icon_share
+  - Purple_Button
+  - icon_download
+  - background_settings
+  - bebi_icon
+  - Popup_BG
+  m_RenderDataMap: {}
+  m_Tag: SharedPopupAtlass_Don'tModifiy
+  m_IsVariant: 0

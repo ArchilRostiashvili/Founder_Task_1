@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 424023b2e3b2081429e95d88175b09ae, type: 3}
+  m_Name: SortingOfEggsColored
+  m_EditorClassIdentifier: 
+  _eggSizesList: []
+  _colorDataList:
+  - EggColor: {r: 0.70980394, g: 0, b: 0.9607843, a: 1}
+    ColorID: purple
+    audioTrack: {fileID: 0}
+  - EggColor: {r: 0, g: 0.8117647, b: 1, a: 1}
+    ColorID: cyan
+    audioTrack: {fileID: 0}
+  - EggColor: {r: 0.41960785, g: 0.9529412, b: 0.039215688, a: 1}
+    ColorID: green
+    audioTrack: {fileID: 0}
+  - EggColor: {r: 0.65882355, g: 0.32156864, b: 0.003921569, a: 1}
+    ColorID: brown
+    audioTrack: {fileID: 0}
+  - EggColor: {r: 1, g: 0, b: 0, a: 1}
+    ColorID: red
+    audioTrack: {fileID: 0}
+  _isColoredGamePlay: 1

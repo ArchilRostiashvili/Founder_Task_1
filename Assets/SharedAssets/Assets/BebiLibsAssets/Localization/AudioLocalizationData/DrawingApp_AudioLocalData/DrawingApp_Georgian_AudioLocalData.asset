@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 448e77aaa0394234bad88896aa61c1bf, type: 3}
+  m_Name: DrawingApp_Georgian_AudioLocalData
+  m_EditorClassIdentifier: 
+  _identifier: {fileID: 11400000, guid: 764cad33aa13e8a4cbfd4fabf3478207, type: 2}
+  _folderPath: Assets/Sounds/localized_voicelines/Georgian
+  _assetLabelToPreload:
+    m_LabelString: Georgian
+  _isEditorOnly: 0
+  _audioAssetReferenceList:
+  - AssetName: fx_tx_lets_start_the_adventure
+    LocalAssetName: fx_tx_lets_start_the_adventure_ge
+    AddressableAudioReference:
+      m_AssetGUID: 459ba4c772c54cd49910ca8e593b8bdf
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    PreloadAsset: 0
+    HasAssetReference: 1
+  - AssetName: fx_tx_letusplay
+    LocalAssetName: fx_tx_letusplay_ge
+    AddressableAudioReference:
+      m_AssetGUID: 766f7edbb575d2d468a481dc81849dc4
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    PreloadAsset: 0
+    HasAssetReference: 1
+  - AssetName: fx_tx_welcome_to_puzzle_adventure
+    LocalAssetName: fx_tx_welcome_to_puzzle_adventure_ge
+    AddressableAudioReference:
+      m_AssetGUID: 9cbf6d446100b284fb343cbe0c7932f8
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    PreloadAsset: 0
+    HasAssetReference: 1
+  - AssetName: fx_tx_swipe_your_finger_on_the_image
+    LocalAssetName: fx_tx_swipe_your_finger_on_the_image_ge
+    AddressableAudioReference:
+      m_AssetGUID: fd3aa8eb584288e48abb45188cb9a411
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    PreloadAsset: 0
+    HasAssetReference: 1
+  - AssetName: fx_tx_tap_on_image_to_color
+    LocalAssetName: fx_tx_tap_on_image_to_color_ge
+    AddressableAudioReference:
+      m_AssetGUID: 81f1906a40b67fb48ad8b7f68c694ebb
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    PreloadAsset: 0
+    HasAssetReference: 1
+  ModulesPath:
+    _folderPath: 
+    _folderAbsolutePath: 
+    _folderGuid: 
+    _folderPathType: 0

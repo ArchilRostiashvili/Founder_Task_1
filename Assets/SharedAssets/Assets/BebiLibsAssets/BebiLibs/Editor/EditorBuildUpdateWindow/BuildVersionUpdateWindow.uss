@@ -1,0 +1,55 @@
+.custom_horizontal_container {
+    align-items: center;
+    flex-direction: row;
+}
+
+.custom_container {
+    margin-left: 5px;
+    margin-right: 5px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.custom_field {
+    align-items: center;
+    flex-grow: 1;
+    flex-shrink: 3;
+    justify-content: center;
+}
+
+.custom_field_label {
+    margin-left: 0;
+    margin-right: 2px;
+    margin-top: 0;
+    margin-bottom: 0;
+    flex-grow: 3;
+    padding-left: 1px;
+    padding-right: 2px;
+    padding-top: 2px;
+    padding-bottom: 0;
+    flex-shrink: 0;
+    width: 30%;
+}
+
+.custom_field > Label {
+    margin-right: -60px;
+}
+
+.custom_field > #unity-text-input {
+    min-width: 40px;
+}
+
+.custom_toggle_field {
+    align-items: center;
+    justify-content: center;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 4px;
+    margin-bottom: 6px;
+}
+
+.custom_button {
+    flex-grow: 0;
+    padding-right: 13px;
+    padding-left: 13px;
+}

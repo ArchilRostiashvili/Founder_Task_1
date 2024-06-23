@@ -1,0 +1,241 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &1000013510568448
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4000012670491078}
+  - component: {fileID: 114000010255979466}
+  m_Layer: 5
+  m_Name: LShapesManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 4294967295
+  m_IsActive: 1
+--- !u!4 &4000012670491078
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1000013510568448}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &114000010255979466
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1000013510568448}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 42a276494aba161438d5def8e1b5ecbf, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  shapes:
+  - showContents: 1
+    prefab: {fileID: 1616522389696204, guid: c6dd0b724d6c9304e8d51d155552c8ea, type: 3}
+    picture: {fileID: 0}
+    clip: {fileID: 8300000, guid: 2d7fd101e85feaf4e9174757e8c8dac5, type: 3}
+    starsTimePeriod: 15
+    ID: -1
+    isLocked: 1
+  - showContents: 1
+    prefab: {fileID: 1869091591700926, guid: c7325fc030a53b6408e7947acbcab1ba, type: 3}
+    picture: {fileID: 0}
+    clip: {fileID: 8300000, guid: 17ce07f631b7bb14b899efb80f3346c6, type: 3}
+    starsTimePeriod: 15
+    ID: -1
+    isLocked: 1
+  - showContents: 1
+    prefab: {fileID: 1759889951116556, guid: 27514168fca05064a9b42ecb9b88b666, type: 3}
+    picture: {fileID: 0}
+    clip: {fileID: 8300000, guid: 5b20f1de1e3df554398dca8a4939c8f7, type: 3}
+    starsTimePeriod: 15
+    ID: -1
+    isLocked: 1
+  - showContents: 1
+    prefab: {fileID: 1367180856010000, guid: d6ed44356cc4a2742a2064ef6d9e416b, type: 3}
+    picture: {fileID: 0}
+    clip: {fileID: 8300000, guid: 298a169d6ea191f45b5f7f6c07517b30, type: 3}
+    starsTimePeriod: 15
+    ID: -1
+    isLocked: 1
+  - showContents: 1
+    prefab: {fileID: 1744023822627682, guid: 4b058f22826bbe84ca9507208954b223, type: 3}
+    picture: {fileID: 0}
+    clip: {fileID: 8300000, guid: 9d31fef50c731ea408b584a0d38df989, type: 3}
+    starsTimePeriod: 15
+    ID: -1
+    isLocked: 1
+  - showContents: 1
+    prefab: {fileID: 1180901223200372, guid: 58eb32dc22515594b83926750b7a137e, type: 3}
+    picture: {fileID: 0}
+    clip: {fileID: 8300000, guid: 350f89f6c16684d43bc1fab01a1c4a53, type: 3}
+    starsTimePeriod: 15
+    ID: -1
+    isLocked: 1
+  - showContents: 1
+    prefab: {fileID: 1951324337131072, guid: 2d44a2267148d3542b075f784b6d4e9f, type: 3}
+    picture: {fileID: 0}
+    clip: {fileID: 8300000, guid: 6cfc2e4baa19697428b1c1d5a649a0c9, type: 3}
+    starsTimePeriod: 15
+    ID: -1
+    isLocked: 1
+  - showContents: 1
+    prefab: {fileID: 1700017910662550, guid: 2828730c22a0b3647b2a3f40b46b6255, type: 3}
+    picture: {fileID: 0}
+    clip: {fileID: 8300000, guid: 3ddb5321029c09d4fbb16805aab354a7, type: 3}
+    starsTimePeriod: 15
+    ID: -1
+    isLocked: 1
+  - showContents: 1
+    prefab: {fileID: 1984288757944544, guid: 9384d261bbedcfe44a1253ba8b8c68f1, type: 3}
+    picture: {fileID: 0}
+    clip: {fileID: 8300000, guid: 8b515b848460549498976e29952193ad, type: 3}
+    starsTimePeriod: 15
+    ID: -1
+    isLocked: 1
+  - showContents: 1
+    prefab: {fileID: 1910365927635654, guid: 082f4a9c5f6be5640babddba8c4ddc07, type: 3}
+    picture: {fileID: 0}
+    clip: {fileID: 8300000, guid: c78ff1e0da231354a93e729165050caa, type: 3}
+    starsTimePeriod: 15
+    ID: -1
+    isLocked: 1
+  - showContents: 1
+    prefab: {fileID: 1142601294152964, guid: 9fbbf73219f96b441a70b26b02bf3fa3, type: 3}
+    picture: {fileID: 0}
+    clip: {fileID: 8300000, guid: 269a2e403e859cf4096eb90a47987172, type: 3}
+    starsTimePeriod: 15
+    ID: -1
+    isLocked: 1
+  - showContents: 1
+    prefab: {fileID: 1014640911311958, guid: 26e7d28de1b25704b9d28c9853ce782a, type: 3}
+    picture: {fileID: 0}
+    clip: {fileID: 8300000, guid: 7898e6c709cbb144fbbac2ca950e2d36, type: 3}
+    starsTimePeriod: 15
+    ID: -1
+    isLocked: 1
+  - showContents: 1
+    prefab: {fileID: 1102670293290890, guid: 21506836b6e85cd419b1a8ad8cad9ddc, type: 3}
+    picture: {fileID: 0}
+    clip: {fileID: 8300000, guid: 70b7ee53e1cfb334dbaa4abe6eed685a, type: 3}
+    starsTimePeriod: 15
+    ID: -1
+    isLocked: 1
+  - showContents: 1
+    prefab: {fileID: 1063454650292890, guid: 5168e971ceb66674ead1bfa3298b4d58, type: 3}
+    picture: {fileID: 0}
+    clip: {fileID: 8300000, guid: fafa92b49ec22f7468a48b9d876d7fdc, type: 3}
+    starsTimePeriod: 15
+    ID: -1
+    isLocked: 1
+  - showContents: 1
+    prefab: {fileID: 1190591973583040, guid: 81c38dd6ebbb8654c9f5e3e60eeddeb3, type: 3}
+    picture: {fileID: 0}
+    clip: {fileID: 8300000, guid: 48a0b1274bc159745ad059af3587464b, type: 3}
+    starsTimePeriod: 15
+    ID: -1
+    isLocked: 1
+  - showContents: 1
+    prefab: {fileID: 1050140857759524, guid: 29d8fc70bac9f27428b000b926da3cc8, type: 3}
+    picture: {fileID: 0}
+    clip: {fileID: 8300000, guid: 9b17740a99622bb40b228d31eb10e8eb, type: 3}
+    starsTimePeriod: 15
+    ID: -1
+    isLocked: 1
+  - showContents: 1
+    prefab: {fileID: 1486794489661064, guid: 65ef938f72cedf442bb55944accc1bf7, type: 3}
+    picture: {fileID: 0}
+    clip: {fileID: 8300000, guid: 1588d7e3ed9ffa845bb26f7cd9058b6c, type: 3}
+    starsTimePeriod: 15
+    ID: -1
+    isLocked: 1
+  - showContents: 1
+    prefab: {fileID: 1202557628877804, guid: 35df4659b66a0f34b82250fcc1c7ac75, type: 3}
+    picture: {fileID: 0}
+    clip: {fileID: 8300000, guid: fe9bfa8300c4092449be01119e02bafd, type: 3}
+    starsTimePeriod: 15
+    ID: -1
+    isLocked: 1
+  - showContents: 1
+    prefab: {fileID: 1662983238153452, guid: f289eb358bc5e054399d9a2f8943d2f9, type: 3}
+    picture: {fileID: 0}
+    clip: {fileID: 8300000, guid: df80f831dd76c4e439279285c6fd37b2, type: 3}
+    starsTimePeriod: 15
+    ID: -1
+    isLocked: 1
+  - showContents: 1
+    prefab: {fileID: 1502273146660814, guid: 97069807210c82f4c8dfc3b7201bc51b, type: 3}
+    picture: {fileID: 0}
+    clip: {fileID: 8300000, guid: 6c80e5144134a8749a4bf18d963c98cd, type: 3}
+    starsTimePeriod: 15
+    ID: -1
+    isLocked: 1
+  - showContents: 1
+    prefab: {fileID: 1592413429321240, guid: f720221306f36e7449deb96cd66319f6, type: 3}
+    picture: {fileID: 0}
+    clip: {fileID: 8300000, guid: 91650b6317dc28948978cd84f4323a1b, type: 3}
+    starsTimePeriod: 15
+    ID: -1
+    isLocked: 1
+  - showContents: 1
+    prefab: {fileID: 1667481951117830, guid: 00731f50230481040939417311dc1d77, type: 3}
+    picture: {fileID: 0}
+    clip: {fileID: 8300000, guid: e11b4ed34e39a9643b4fc4a8365274d5, type: 3}
+    starsTimePeriod: 15
+    ID: -1
+    isLocked: 1
+  - showContents: 1
+    prefab: {fileID: 1999270860299886, guid: d54acb6b3b8acb0418d3b93d18c6e4b3, type: 3}
+    picture: {fileID: 0}
+    clip: {fileID: 8300000, guid: fd311d68352f6294a9b32135b51fce7a, type: 3}
+    starsTimePeriod: 15
+    ID: -1
+    isLocked: 1
+  - showContents: 1
+    prefab: {fileID: 1194623636508204, guid: bc84e311a9dbf4e49a821fea48594871, type: 3}
+    picture: {fileID: 0}
+    clip: {fileID: 8300000, guid: d7d1daf287a6b15479a459388b01f7ca, type: 3}
+    starsTimePeriod: 15
+    ID: -1
+    isLocked: 1
+  - showContents: 1
+    prefab: {fileID: 1023127885691750, guid: f145692b6bc66704d91e4c67cf65435b, type: 3}
+    picture: {fileID: 0}
+    clip: {fileID: 8300000, guid: 0dde92e09ef43d04f82ba81556b15134, type: 3}
+    starsTimePeriod: 15
+    ID: -1
+    isLocked: 1
+  - showContents: 1
+    prefab: {fileID: 1674466753402694, guid: f1caa56c3f809a64695c5a486f4417ab, type: 3}
+    picture: {fileID: 0}
+    clip: {fileID: 8300000, guid: 99a9edd58a9707e4189470b4d14643b6, type: 3}
+    starsTimePeriod: 15
+    ID: -1
+    isLocked: 1
+  shapeLabel: Letter
+  shapePrefix: Lowercase
+  sceneName: Album
+  albumTitle: {fileID: 21300000, guid: 303aac757e24e764a9fbdb975de8afad, type: 3}
+  albumShapeScaleFactor: 0.7
+  AlbumShapeLineWidth: 1.03
+  GameShapeLineWidth: 1.31
+  AlbumCompoundShapeLineWidth: 0.28
+  GameCompoundShapeLineWidth: 0.28
+  lastSelectedGroup: 0
+  tracingMode: 1
+  testMode: 0
+  enableTracingLimit: 1

@@ -1,0 +1,24 @@
+    // adb shell setprop debug.firabase.analytics.app bebi.family.kids.learning.games
+    // adb shell setprop debug.firabase.analytics.app com.happytools.learning.kids.games
+    // adb shell setprop debug.firabase.analytics.app smarter.toddler.puzzle.games
+
+    // adb shell setprop log.tag.FA VERBOSE
+    // adb shell setprop log.tag.FA-SVC VERBOSE
+    // adb logcat - s "FA", "FA-SVC"
+    // adb logcat -s "FA-SVC"
+    // adb shell setprop debug.firabase.analytics.app  .none.
+
+    // adb logcat bebi.family.kids.learning.games
+    //adb logcat --pid=`adb shell pidof -s bebi.family.kids.learning.games`
+
+    //firebase crashlytics:symbols:upload --app=1:990504953148:android:8374cfca9d3d5348c76a39 PATH/TO/SYMBOLS
+    //java -jar bundletool.jar build-apks --connected-device --bundle=./ BigAdventure.aab--output=./ BigAdventure.apks
+    //java -jar bundletool.jar install-apks  --device-id=HEKNU20813104233 --apks=./ BigAdventure.apks
+    //java -jar bundletool.jar install-apks  --device-id=R58R622F17P --apks=./ BigAdventure.apks
+    //adb devices 
+
+
+adb shell setprop debug.firabase.analytics.app com.happytools.learning.kids.games
+adb shell setprop log.tag.FA VERBOSE
+adb shell setprop log.tag.FA-SVC VERBOSE
+adb logcat -v time -s FA FA-SVC

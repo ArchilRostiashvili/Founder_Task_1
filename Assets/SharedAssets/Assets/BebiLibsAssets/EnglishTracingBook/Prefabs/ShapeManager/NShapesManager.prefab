@@ -1,0 +1,137 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &185084
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 442900}
+  - component: {fileID: 11492436}
+  m_Layer: 5
+  m_Name: NShapesManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 4294967295
+  m_IsActive: 1
+--- !u!4 &442900
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 185084}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &11492436
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 185084}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 42a276494aba161438d5def8e1b5ecbf, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  shapes:
+  - showContents: 1
+    prefab: {fileID: 1479068141931890, guid: ab792ec48a0eb9947bdf4236da3e4839, type: 3}
+    picture: {fileID: 0}
+    clip: {fileID: 8300000, guid: f8ccf318186a9824d8facf3c3dfd7570, type: 3}
+    starsTimePeriod: 15
+    ID: -1
+    isLocked: 1
+  - showContents: 1
+    prefab: {fileID: 1407506934601134, guid: a0165e76991f11e4cb1189e06deb9b0f, type: 3}
+    picture: {fileID: 0}
+    clip: {fileID: 8300000, guid: 65dbd027035aa9b47badaa27bafc21bf, type: 3}
+    starsTimePeriod: 15
+    ID: -1
+    isLocked: 1
+  - showContents: 1
+    prefab: {fileID: 1742127135162998, guid: a40124f0dc1c44240945e7476200ce60, type: 3}
+    picture: {fileID: 0}
+    clip: {fileID: 8300000, guid: c697818a07c4c234ebb43f9084ab3637, type: 3}
+    starsTimePeriod: 15
+    ID: -1
+    isLocked: 1
+  - showContents: 1
+    prefab: {fileID: 1412054209901120, guid: 389f7823574dee643bb2b8c226a6f9fc, type: 3}
+    picture: {fileID: 0}
+    clip: {fileID: 8300000, guid: a82eefbb797c77046a899f1d49942f72, type: 3}
+    starsTimePeriod: 15
+    ID: -1
+    isLocked: 1
+  - showContents: 1
+    prefab: {fileID: 1496105319725818, guid: 3bdc06e3fe8b63e4285e59c59988bae3, type: 3}
+    picture: {fileID: 0}
+    clip: {fileID: 8300000, guid: e03c267455a93d3429544ad7f3a59721, type: 3}
+    starsTimePeriod: 15
+    ID: -1
+    isLocked: 1
+  - showContents: 1
+    prefab: {fileID: 1802749691812208, guid: 800d726aa3170d140b92903b6e1a71a9, type: 3}
+    picture: {fileID: 0}
+    clip: {fileID: 8300000, guid: 353b82775b8381940b3e9b07b25af4d7, type: 3}
+    starsTimePeriod: 15
+    ID: -1
+    isLocked: 1
+  - showContents: 1
+    prefab: {fileID: 1306564371886868, guid: 48cc1108cd460be4c9eb4b01d2d93c53, type: 3}
+    picture: {fileID: 0}
+    clip: {fileID: 8300000, guid: 6ecc5b468bcb3a74786062dd7f924ea5, type: 3}
+    starsTimePeriod: 15
+    ID: -1
+    isLocked: 1
+  - showContents: 1
+    prefab: {fileID: 1197450860373422, guid: 4916780ef50122a49bc20cfe0290f3f4, type: 3}
+    picture: {fileID: 0}
+    clip: {fileID: 8300000, guid: 3cc5c3b6af6809940bdda02adcd28788, type: 3}
+    starsTimePeriod: 15
+    ID: -1
+    isLocked: 1
+  - showContents: 1
+    prefab: {fileID: 1436081521775432, guid: 804805b682355184aa319582cfbeb1de, type: 3}
+    picture: {fileID: 0}
+    clip: {fileID: 8300000, guid: daf04402d08fe564198f894e1bac2211, type: 3}
+    starsTimePeriod: 15
+    ID: -1
+    isLocked: 1
+  - showContents: 1
+    prefab: {fileID: 1136650495956730, guid: 5db705f5acb9fdd40928e707599df90c, type: 3}
+    picture: {fileID: 0}
+    clip: {fileID: 8300000, guid: 815fb671457371e46bb7ddaf308d06b5, type: 3}
+    starsTimePeriod: 15
+    ID: -1
+    isLocked: 1
+  - showContents: 1
+    prefab: {fileID: 6705269043487347255, guid: 1e0bc741ff39eb64f86deedced25ff79, type: 3}
+    picture: {fileID: 0}
+    clip: {fileID: 0}
+    starsTimePeriod: 15
+    ID: -1
+    isLocked: 1
+  shapeLabel: Number
+  shapePrefix: Number
+  sceneName: Album
+  albumTitle: {fileID: 21300000, guid: a3d6b0332012e8d4489c07d020b6dd47, type: 3}
+  albumShapeScaleFactor: 0.7
+  AlbumShapeLineWidth: 1.03
+  GameShapeLineWidth: 1.31
+  AlbumCompoundShapeLineWidth: 0.28
+  GameCompoundShapeLineWidth: 0.28
+  lastSelectedGroup: 0
+  tracingMode: 1
+  testMode: 0
+  enableTracingLimit: 1

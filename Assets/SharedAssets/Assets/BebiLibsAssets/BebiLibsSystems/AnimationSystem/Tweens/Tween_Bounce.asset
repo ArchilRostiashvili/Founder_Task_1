@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7f1ab6be78f89164a8cfdb5b0e344ccc, type: 3}
+  m_Name: Tween_Bounce
+  m_EditorClassIdentifier: 
+  _easeSetting:
+    _easeType: 1
+    _tweenEasing: 30
+    _curveEasing:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: 2
+        outSlope: 2
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 0.794572
+        value: 1.0147471
+        inSlope: 0.5111909
+        outSlope: 0.5111909
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.22698501
+        outWeight: 0.46935263
+      - serializedVersion: 3
+        time: 1
+        value: 1
+        inSlope: -0.5791702
+        outSlope: -0.5791702
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.24874097
+        outWeight: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    _overshoot: 1.70158
+    _amplitude: 1.70158
+    _period: 0.395
+  _loopSetting:
+    _enableLooping: 0
+    _loopCount: 0
+    _loopType: 0

@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: t_taxi_Atlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 8
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: c4728b9ee83f2b8449dbfb15883c300f, type: 3}
+    - {fileID: 2800000, guid: 09b12a92a9e118148baaef4ee2fe5583, type: 3}
+    - {fileID: 2800000, guid: 0c1a81791ef64504ca50461303e0d51d, type: 3}
+    - {fileID: 2800000, guid: 0fa202ef75239614e8850a1bf85fa992, type: 3}
+    - {fileID: 2800000, guid: 54c566c2fdabc1f4e9044da6c6b7bdd1, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 09b12a92a9e118148baaef4ee2fe5583, type: 3}
+  - {fileID: 21300000, guid: 54c566c2fdabc1f4e9044da6c6b7bdd1, type: 3}
+  - {fileID: 21300000, guid: 0c1a81791ef64504ca50461303e0d51d, type: 3}
+  - {fileID: 21300000, guid: c4728b9ee83f2b8449dbfb15883c300f, type: 3}
+  - {fileID: 21300000, guid: 0fa202ef75239614e8850a1bf85fa992, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - t_table
+  - t_train
+  - t_tree
+  - t_taxi
+  - t_tiger
+  m_RenderDataMap: {}
+  m_Tag: t_taxi_Atlas
+  m_IsVariant: 0

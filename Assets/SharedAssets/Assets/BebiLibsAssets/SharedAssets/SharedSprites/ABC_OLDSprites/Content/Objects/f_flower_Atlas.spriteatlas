@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: f_flower_Atlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 8
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: 049732e12ee778a4eba0e4eae3325323, type: 3}
+    - {fileID: 2800000, guid: b1ad2d51ea84ca74d84e9212120c44d1, type: 3}
+    - {fileID: 2800000, guid: 53e4429a47eab0842ac60fd5200562a4, type: 3}
+    - {fileID: 2800000, guid: d24dd15a20750ac49b8b21806dc2fcf7, type: 3}
+    - {fileID: 2800000, guid: b33991ee6d3710e4bb5d4942ed64f29c, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: b1ad2d51ea84ca74d84e9212120c44d1, type: 3}
+  - {fileID: 21300000, guid: 049732e12ee778a4eba0e4eae3325323, type: 3}
+  - {fileID: 21300000, guid: d24dd15a20750ac49b8b21806dc2fcf7, type: 3}
+  - {fileID: 21300000, guid: 53e4429a47eab0842ac60fd5200562a4, type: 3}
+  - {fileID: 21300000, guid: b33991ee6d3710e4bb5d4942ed64f29c, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - f_fire
+  - f_flower
+  - f_fish
+  - f_frog
+  - f_fox
+  m_RenderDataMap: {}
+  m_Tag: f_flower_Atlas
+  m_IsVariant: 0

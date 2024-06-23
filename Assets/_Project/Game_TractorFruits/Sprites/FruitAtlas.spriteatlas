@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: FruitAtlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 512
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 16d4fbdb21242c94d936ab4e854b9582, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: c2e85b11033c59148b492e9fcfc067ac, type: 3}
+  - {fileID: 21300000, guid: 42de776424d2dd542a67fa2b492911da, type: 3}
+  - {fileID: 21300000, guid: a1aeb57866dacd549b175e4ace251a42, type: 3}
+  - {fileID: 21300000, guid: 9e4f49e876d904746ad32d7f8fac5ba7, type: 3}
+  - {fileID: 21300000, guid: 78b978eaf9dd1a7438a6115e7c694326, type: 3}
+  - {fileID: 21300000, guid: b23e0b8fda845a342b6707a72e7e1c91, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - apple
+  - cherry
+  - orange
+  - pear
+  - tree
+  - plum
+  m_RenderDataMap: {}
+  m_Tag: FruitAtlas
+  m_IsVariant: 0

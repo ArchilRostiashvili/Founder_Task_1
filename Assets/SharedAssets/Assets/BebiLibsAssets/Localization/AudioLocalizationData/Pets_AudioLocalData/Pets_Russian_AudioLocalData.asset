@@ -1,0 +1,169 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 448e77aaa0394234bad88896aa61c1bf, type: 3}
+  m_Name: Pets_Russian_AudioLocalData
+  m_EditorClassIdentifier: 
+  _identifier: {fileID: 11400000, guid: 2df80b173d4b8bd42b9e0ebc8fa37c53, type: 2}
+  _folderPath: Assets/Sounds/localized_voicelines/Russian
+  _assetLabelToPreload:
+    m_LabelString: Russian
+  _isEditorOnly: 0
+  _audioAssetReferenceList:
+  - AssetName: fx_tx_pets_say_hello_to_your_cat
+    LocalAssetName: fx_tx_pets_say_hello_to_your_cat_ru
+    AddressableAudioReference:
+      m_AssetGUID: 855e02bbf3e43a14389452fc29c72935
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    PreloadAsset: 0
+    HasAssetReference: 1
+  - AssetName: fx_tx_pets_say_hello_to_your_dog
+    LocalAssetName: fx_tx_pets_say_hello_to_your_dog_ru
+    AddressableAudioReference:
+      m_AssetGUID: 5b4c0bc3a6bd04445a5c97a524437119
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    PreloadAsset: 0
+    HasAssetReference: 1
+  - AssetName: fx_tx_pets_this_is_your_cat
+    LocalAssetName: fx_tx_pets_this_is_your_cat_ru
+    AddressableAudioReference:
+      m_AssetGUID: 25cf328d96542c145a82889f94f34424
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    PreloadAsset: 0
+    HasAssetReference: 1
+  - AssetName: fx_tx_pets_this_is_your_dog
+    LocalAssetName: fx_tx_pets_this_is_your_dog_ru
+    AddressableAudioReference:
+      m_AssetGUID: f6ad6a2a1df4c8a4891790ca12b308d0
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    PreloadAsset: 0
+    HasAssetReference: 1
+  - AssetName: fx_tx_pets_your_cat_is_bored
+    LocalAssetName: fx_tx_pets_your_cat_is_bored_ru
+    AddressableAudioReference:
+      m_AssetGUID: ef383d5a73beb3946b109da04e41e1d1
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    PreloadAsset: 0
+    HasAssetReference: 1
+  - AssetName: fx_tx_pets_your_cat_is_hungry
+    LocalAssetName: fx_tx_pets_your_cat_is_hungry_ru
+    AddressableAudioReference:
+      m_AssetGUID: c8f0e477241a35c4e815a031c599d5d4
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    PreloadAsset: 0
+    HasAssetReference: 1
+  - AssetName: fx_tx_pets_your_cat_is_thirsty
+    LocalAssetName: fx_tx_pets_your_cat_is_thirsty_ru
+    AddressableAudioReference:
+      m_AssetGUID: 540df18bebfa95141812e703a8659b84
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    PreloadAsset: 0
+    HasAssetReference: 1
+  - AssetName: fx_tx_pets_your_cat_needs_bath
+    LocalAssetName: fx_tx_pets_your_cat_needs_bath_ru
+    AddressableAudioReference:
+      m_AssetGUID: 346a072271b1bd141a6eb18abe992dc3
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    PreloadAsset: 0
+    HasAssetReference: 1
+  - AssetName: fx_tx_pets_your_cat_needs_clothes
+    LocalAssetName: fx_tx_pets_your_cat_needs_clothes_ru
+    AddressableAudioReference:
+      m_AssetGUID: 739f56552d1e36b40ae81d5821a617ec
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    PreloadAsset: 0
+    HasAssetReference: 1
+  - AssetName: fx_tx_pets_your_cat_wants_new_clothes
+    LocalAssetName: fx_tx_pets_your_cat_wants_new_clothes_ru
+    AddressableAudioReference:
+      m_AssetGUID: f79f5abd7c59d084e88793976950850b
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    PreloadAsset: 0
+    HasAssetReference: 1
+  - AssetName: fx_tx_pets_your_dog_is_bored
+    LocalAssetName: fx_tx_pets_your_dog_is_bored_ru
+    AddressableAudioReference:
+      m_AssetGUID: 9d74a130224983f4284efa73204d7634
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    PreloadAsset: 0
+    HasAssetReference: 1
+  - AssetName: fx_tx_pets_your_dog_is_hungry
+    LocalAssetName: fx_tx_pets_your_dog_is_hungry_ru
+    AddressableAudioReference:
+      m_AssetGUID: 198abe389744e58469a0750400c7a252
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    PreloadAsset: 0
+    HasAssetReference: 1
+  - AssetName: fx_tx_pets_your_dog_is_thirsty
+    LocalAssetName: fx_tx_pets_your_dog_is_thirsty_ru
+    AddressableAudioReference:
+      m_AssetGUID: a2556b4dc02a3e443b08276a2e2a7a72
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    PreloadAsset: 0
+    HasAssetReference: 1
+  - AssetName: fx_tx_pets_your_dog_needs_bath
+    LocalAssetName: fx_tx_pets_your_dog_needs_bath_ru
+    AddressableAudioReference:
+      m_AssetGUID: 179cb05cfecc991408b49169aed389f7
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    PreloadAsset: 0
+    HasAssetReference: 1
+  - AssetName: fx_tx_pets_your_dog_needs_clothes
+    LocalAssetName: fx_tx_pets_your_dog_needs_clothes_ru
+    AddressableAudioReference:
+      m_AssetGUID: a9a972046b3cce84da183e12eb763183
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    PreloadAsset: 0
+    HasAssetReference: 1
+  - AssetName: fx_tx_pets_your_dog_wants_new_clothes
+    LocalAssetName: fx_tx_pets_your_dog_wants_new_clothes_ru
+    AddressableAudioReference:
+      m_AssetGUID: 14ec1e33932bee94ea611b358ada6fce
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    PreloadAsset: 0
+    HasAssetReference: 1
+  ModulesPath:
+    _folderPath: 
+    _folderAbsolutePath: 
+    _folderGuid: 
+    _folderPathType: 0

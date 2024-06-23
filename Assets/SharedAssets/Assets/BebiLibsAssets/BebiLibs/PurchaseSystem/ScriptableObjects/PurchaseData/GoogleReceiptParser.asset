@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: baea533e53204ff4099d67ea3df75766, type: 3}
+  m_Name: GoogleReceiptParser
+  m_EditorClassIdentifier: 
+  hasReceipt: 1
+  testReceipt: "{\r\n    \"Payload\": \"{\\\"json\\\":\\\"{\\\\\\\"orderId\\\\\\\":\\\\\\\"GPA.3381-5797-4006-38146\\\\\\\",\\\\\\\"packageName\\\\\\\":\\\\\\\"bebi.family.kids.learning.games\\\\\\\",\\\\\\\"productId\\\\\\\":\\\\\\\"bebi.kids.learning.games.mnth\\\\\\\",\\\\\\\"purchaseTime\\\\\\\":1635426021914,\\\\\\\"purchaseState\\\\\\\":0,\\\\\\\"purchaseToken\\\\\\\":\\\\\\\"jcejpopoefgoihoglidnggfo.AO-J1OyGWitl7aRW9SInwQA7LkJiPE-UbNRsvPA82JBa6YS7dv0ZBPZcCyUHfkGv5WsMKaJhdNrK4uQK38oa1pUqZta84Hg5xR9yerSEInEz8JuDzMu5L8Y\\\\\\\",\\\\\\\"autoRenewing\\\\\\\":true,\\\\\\\"acknowledged\\\\\\\":true}\\\",\\\"signature\\\":\\\"jQkK9fdx5k1gZ7mdCBKRhr9WKrDe6757qd1yDZ7wtSTHgH2JsnM4ttcDayCRAOWYw5qNoppPd4YlsSGqZmS19U79Ow1wCSy6xXORP0QQh7KyExSNxFI6eU5in5Y5p/mGauwAG76OiVEeX17cLamyfJpyWVtLvBZHAtfjeEzfCs3Rjy7fn8/NfHaI94MHHdTuPFjHRqIY+nQP5tsDt1psLgFASGpB4hWdfiU8RntbXseo7SvTVctsmXl83HzEOTwuO9C0XjbQJBim/Lo51UnYyr2JOG8buBh05lcyyQOvx5MRLlFkPmM65RyvjIYwnclT1kmqin2CyC3WgL5vqqkslA==\\\",\\\"skuDetails\\\":\\\"{\\\\\\\"productId\\\\\\\":\\\\\\\"bebi.kids.learning.games.mnth\\\\\\\",\\\\\\\"type\\\\\\\":\\\\\\\"subs\\\\\\\",\\\\\\\"title\\\\\\\":\\\\\\\"Full
+    Access - Monthly (Toddler learning games for kids: 2,3,4 year olds)\\\\\\\",\\\\\\\"name\\\\\\\":\\\\\\\"Full
+    Access - Monthly\\\\\\\",\\\\\\\"price\\\\\\\":\\\\\\\"GEL\\\\u00a09.00\\\\\\\",\\\\\\\"price_amount_micros\\\\\\\":9000000,\\\\\\\"price_currency_code\\\\\\\":\\\\\\\"GEL\\\\\\\",\\\\\\\"description\\\\\\\":\\\\\\\"Access
+    the whole content in the app for a month.\\\\\\\",\\\\\\\"subscriptionPeriod\\\\\\\":\\\\\\\"P1M\\\\\\\",\\\\\\\"freeTrialPeriod\\\\\\\":\\\\\\\"P1W\\\\\\\",\\\\\\\"skuDetailsToken\\\\\\\":\\\\\\\"AEuhp4Ieca2uIm32dB5StwZAnWm8QLRaJO9XbVheRdjCXKDTwvsBWcE1Sj28Ahw2WrhZ\\\\\\\"}\\\"}\",\r\n   
+    \"Store\": \"GooglePlay\",\r\n    \"TransactionID\": \"jcejpopoefgoihoglidnggfo.AO-J1OyGWitl7aRW9SInwQA7LkJiPE-UbNRsvPA82JBa6YS7dv0ZBPZcCyUHfkGv5WsMKaJhdNrK4uQK38oa1pUqZta84Hg5xR9yerSEInEz8JuDzMu5L8Y\"\r\n}"
+  arrayGoogleReceiptInfo: []

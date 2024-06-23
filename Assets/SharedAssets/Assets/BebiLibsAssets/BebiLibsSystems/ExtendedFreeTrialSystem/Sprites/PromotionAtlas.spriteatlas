@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: PromotionAtlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 8
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 3c229a3de566a504ca7a2afafb4d111f, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 896d64100ec8a374ab6a6c81e00debc1, type: 3}
+  - {fileID: 21300000, guid: c7b05440855a1ba4abdc74ea13234c35, type: 3}
+  - {fileID: 21300000, guid: cf6b82f1fd5b3904eae422a04157a54f, type: 3}
+  - {fileID: 21300000, guid: 30b310f20d3a70f4ea86b500533ee176, type: 3}
+  - {fileID: 21300000, guid: a3fd98a3c2e4bc44fa84669892e82aec, type: 3}
+  - {fileID: 21300000, guid: 4656a6d3131f6634697d847d4fb20db8, type: 3}
+  - {fileID: 21300000, guid: 086ce184cdf2fc94386d97a4d872eb68, type: 3}
+  - {fileID: 21300000, guid: dfdb4715ae03c1a4a92768eee00721d2, type: 3}
+  - {fileID: 21300000, guid: 15e40966e7f16e0479b0ce2a1d8fe5c8, type: 3}
+  - {fileID: 21300000, guid: bf55711df65b4624dabe1de4673ff31e, type: 3}
+  - {fileID: 21300000, guid: 62e2e92fee62d8845b39d4694c82025a, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - button_green
+  - watch
+  - button_yellow
+  - sad_bebi
+  - bebi
+  - watch_expired
+  - gift
+  - cloud
+  - confused_babi
+  - extend_free_trial_button
+  - extended_trial_background
+  m_RenderDataMap: {}
+  m_Tag: PromotionAtlas
+  m_IsVariant: 0

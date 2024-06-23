@@ -1,0 +1,1978 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 448e77aaa0394234bad88896aa61c1bf, type: 3}
+  m_Name: Portuguese
+  m_EditorClassIdentifier: 
+  _identifier: {fileID: 11400000, guid: f9321bdb409912541af54c78c79de9ea, type: 2}
+  _folderPath: Assets/Sounds/localized_voicelines/Portuguese
+  _assetLabelToPreload:
+    m_LabelString: Portugeuese
+  _isEditorOnly: 0
+  _audioAssetReferenceList:
+  - AssetName: fx_tx_animals_alligator
+    LocalAssetName: fx_tx_animals_alligator_pt
+    AddressableAudioReference:
+      m_AssetGUID: fa9e079cb3174f64bbc1217a9b6a486f
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    PreloadAsset: 0
+    HasAssetReference: 1
+  - AssetName: fx_tx_animals_bear
+    LocalAssetName: fx_tx_animals_bear_pt
+    AddressableAudioReference:
+      m_AssetGUID: 86c98f8ce4df1ad4980349e780ed5590
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    PreloadAsset: 0
+    HasAssetReference: 1
+  - AssetName: fx_tx_animals_elephant
+    LocalAssetName: fx_tx_animals_elephant_pt
+    AddressableAudioReference:
+      m_AssetGUID: 6c683b44d6d4d4b4c97d1e61e7ffbb45
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    PreloadAsset: 0
+    HasAssetReference: 1
+  - AssetName: fx_tx_animals_fox
+    LocalAssetName: fx_tx_animals_fox_pt
+    AddressableAudioReference:
+      m_AssetGUID: bef162ac31dbe854bbe7eaf30b3c5f75
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    PreloadAsset: 0
+    HasAssetReference: 1
+  - AssetName: fx_tx_animals_giraffe
+    LocalAssetName: fx_tx_animals_giraffe_pt
+    AddressableAudioReference:
+      m_AssetGUID: 1d44f094adb806b4792732ee216fd2cc
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    PreloadAsset: 0
+    HasAssetReference: 1
+  - AssetName: fx_tx_animals_hedgehog
+    LocalAssetName: fx_tx_animals_hedgehog_pt
+    AddressableAudioReference:
+      m_AssetGUID: 6e02b47d3ada8df4490ca244ce8d1b44
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    PreloadAsset: 0
+    HasAssetReference: 1
+  - AssetName: fx_tx_animals_hippo
+    LocalAssetName: fx_tx_animals_hippo_pt
+    AddressableAudioReference:
+      m_AssetGUID: a423d3914f26c764f924f65327551593
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    PreloadAsset: 0
+    HasAssetReference: 1
+  - AssetName: fx_tx_animals_koala
+    LocalAssetName: fx_tx_animals_koala_pt
+    AddressableAudioReference:
+      m_AssetGUID: 6765a3ec445f792499656654b6a864e7
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    PreloadAsset: 0
+    HasAssetReference: 1
+  - AssetName: fx_tx_animals_lion
+    LocalAssetName: fx_tx_animals_lion_pt
+    AddressableAudioReference:
+      m_AssetGUID: 3ee5359acb2a1e84f8832829c7e6d96f
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    PreloadAsset: 0
+    HasAssetReference: 1
+  - AssetName: fx_tx_animals_lizard
+    LocalAssetName: fx_tx_animals_lizard_pt
+    AddressableAudioReference:
+      m_AssetGUID: 059020233705aa84381543b38567229f
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    PreloadAsset: 0
+    HasAssetReference: 1
+  - AssetName: fx_tx_animals_monkey
+    LocalAssetName: fx_tx_animals_monkey_pt
+    AddressableAudioReference:
+      m_AssetGUID: 4eea3a8cd80ad19469cc1b59ad949069
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    PreloadAsset: 0
+    HasAssetReference: 1
+  - AssetName: fx_tx_animals_tur
+    LocalAssetName: fx_tx_animals_tur_pt
+    AddressableAudioReference:
+      m_AssetGUID: 1f5f555ca7033c441a2bdd7dbb2eb2e6
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    PreloadAsset: 0
+    HasAssetReference: 1
+  - AssetName: fx_tx_wild_animals
+    LocalAssetName: fx_tx_wild_animals_pt
+    AddressableAudioReference:
+      m_AssetGUID: 70f330cbee972ad4da845eb6fcfa77f8
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    PreloadAsset: 0
+    HasAssetReference: 1
+  - AssetName: fx_tx_bugs_bee
+    LocalAssetName: fx_tx_bugs_bee_pt
+    AddressableAudioReference:
+      m_AssetGUID: e8231cff9d3976d4882b9d03f633df33
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    PreloadAsset: 0
+    HasAssetReference: 1
+  - AssetName: fx_tx_bugs_beetle
+    LocalAssetName: fx_tx_bugs_beetle_pt
+    AddressableAudioReference:
+      m_AssetGUID: 382741c3ad52c444ea14a0d9cb009a67
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    PreloadAsset: 0
+    HasAssetReference: 1
+  - AssetName: fx_tx_bugs_butterfly
+    LocalAssetName: fx_tx_bugs_butterfly_pt
+    AddressableAudioReference:
+      m_AssetGUID: ed7b7b9d1a1f7bd48b984b01cb44d749
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    PreloadAsset: 0
+    HasAssetReference: 1
+  - AssetName: fx_tx_bugs_caterpillar
+    LocalAssetName: fx_tx_bugs_caterpillar_pt
+    AddressableAudioReference:
+      m_AssetGUID: b2bd8051662a6ff40a5abf2b2cca4f16
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    PreloadAsset: 0
+    HasAssetReference: 1
+  - AssetName: fx_tx_bugs_cricket
+    LocalAssetName: fx_tx_bugs_cricket_pt
+    AddressableAudioReference:
+      m_AssetGUID: 8290cecbfe940014eb3ed6c25bb83787
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    PreloadAsset: 0
+    HasAssetReference: 1
+  - AssetName: fx_tx_bugs_insect_world
+    LocalAssetName: fx_tx_bugs_insect_world_pt
+    AddressableAudioReference:
+      m_AssetGUID: 072128190421c1d45a36189051cffb1c
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    PreloadAsset: 0
+    HasAssetReference: 1
+  - AssetName: fx_tx_bugs_ladybug
+    LocalAssetName: fx_tx_bugs_ladybug_pt
+    AddressableAudioReference:
+      m_AssetGUID: 34e144b3b2c6e6e4dadbe4f7ca83af85
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    PreloadAsset: 0
+    HasAssetReference: 1
+  - AssetName: fx_tx_bugs_looper_worm
+    LocalAssetName: fx_tx_bugs_looper_worm_pt
+    AddressableAudioReference:
+      m_AssetGUID: 64fe602e35fd24846a6f4ca64fe8f15a
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    PreloadAsset: 0
+    HasAssetReference: 1
+  - AssetName: fx_tx_bugs_mosquito
+    LocalAssetName: fx_tx_bugs_mosquito_pt
+    AddressableAudioReference:
+      m_AssetGUID: 8d1c57a0cbae1ae47913608abfedcc94
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    PreloadAsset: 0
+    HasAssetReference: 1
+  - AssetName: fx_tx_bugs_snail
+    LocalAssetName: fx_tx_bugs_snail_pt
+    AddressableAudioReference:
+      m_AssetGUID: 822884d23e9bc914aa0d075696af4532
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    PreloadAsset: 0
+    HasAssetReference: 1
+  - AssetName: fx_tx_bugs_spider
+    LocalAssetName: fx_tx_bugs_spider_pt
+    AddressableAudioReference:
+      m_AssetGUID: d90c364d9c6b8ed48a3209a219e26587
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    PreloadAsset: 0
+    HasAssetReference: 1
+  - AssetName: fx_tx_bugs_worm
+    LocalAssetName: fx_tx_bugs_worm_pt
+    AddressableAudioReference:
+      m_AssetGUID: 4c3181e9cb3c33b4a99cf894cd297e21
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    PreloadAsset: 0
+    HasAssetReference: 1
+  - AssetName: fx_tx_can_you_solve_this
+    LocalAssetName: fx_tx_can_you_solve_this_pt
+    AddressableAudioReference:
+      m_AssetGUID: 7f40968408a122544938af559fc14e63
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    PreloadAsset: 0
+    HasAssetReference: 1
+  - AssetName: fx_tx_letusplay
+    LocalAssetName: fx_tx_let_us_play_pt
+    AddressableAudioReference:
+      m_AssetGUID: de893f9f7953a8447a580fb2ade7d0ea
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    PreloadAsset: 0
+    HasAssetReference: 1
+  - AssetName: fx_tx_somethings_missing
+    LocalAssetName: fx_tx_somethings_missing_pt
+    AddressableAudioReference:
+      m_AssetGUID: 136403a7966cd3f41a883f0fd8c5c637
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    PreloadAsset: 0
+    HasAssetReference: 1
+  - AssetName: fx_tx_thereissomethingleft
+    LocalAssetName: fx_tx_there_is_something_left_pt
+    AddressableAudioReference:
+      m_AssetGUID: ff7bdc6f809270140bec0ef9add2e1dc
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    PreloadAsset: 0
+    HasAssetReference: 1
+  - AssetName: fx_tx_dinos_babydino
+    LocalAssetName: fx_tx_dinos_babydino_pt
+    AddressableAudioReference:
+      m_AssetGUID: b71d59ac57709f242925143c39c6fd47
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    PreloadAsset: 0
+    HasAssetReference: 1
+  - AssetName: fx_tx_dinos_cutedino
+    LocalAssetName: fx_tx_dinos_cutedino_pt
+    AddressableAudioReference:
+      m_AssetGUID: 3e6b3c6e14f5d87448e059225ceeebb9
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    PreloadAsset: 0
+    HasAssetReference: 1
+  - AssetName: fx_tx_dinos_dino
+    LocalAssetName: fx_tx_dinos_dino_pt
+    AddressableAudioReference:
+      m_AssetGUID: b15e0d0ce340ece4a9aa538fcc0c7f75
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    PreloadAsset: 0
+    HasAssetReference: 1
+  - AssetName: fx_tx_dinos_dinosaur
+    LocalAssetName: fx_tx_dinos_dinosaur_pt
+    AddressableAudioReference:
+      m_AssetGUID: d8c0d4cd5bf6add43a0765fd923ed8fb
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    PreloadAsset: 0
+    HasAssetReference: 1
+  - AssetName: fx_tx_dinos_dinoworld
+    LocalAssetName: fx_tx_dinos_dinoworld_pt
+    AddressableAudioReference:
+      m_AssetGUID: e097cae9e00c59c49b41593540861758
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    PreloadAsset: 0
+    HasAssetReference: 1
+  - AssetName: fx_tx_dinos_flyingdino
+    LocalAssetName: fx_tx_dinos_flyingdino_pt
+    AddressableAudioReference:
+      m_AssetGUID: f8d634f3f4aa9124e8e7e2db98b1f66f
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    PreloadAsset: 0
+    HasAssetReference: 1
+  - AssetName: fx_tx_dinos_happydino
+    LocalAssetName: fx_tx_dinos_happydino_pt
+    AddressableAudioReference:
+      m_AssetGUID: 0ffd425b7a2ea5942a92c9c0a34a7ed2
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    PreloadAsset: 0
+    HasAssetReference: 1
+  - AssetName: fx_tx_dinos_jumpydino
+    LocalAssetName: fx_tx_dinos_jumpydino_pt
+    AddressableAudioReference:
+      m_AssetGUID: bbec59e433a6fc74ab7629f17ad648a5
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    PreloadAsset: 0
+    HasAssetReference: 1
+  - AssetName: fx_tx_dinos_spikeydino
+    LocalAssetName: fx_tx_dinos_spikeydino_pt
+    AddressableAudioReference:
+      m_AssetGUID: b7e4dabca856b114b8f16abbcfdcf5ef
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    PreloadAsset: 0
+    HasAssetReference: 1
+  - AssetName: fx_tx_dinos_strongdino
+    LocalAssetName: fx_tx_dinos_strongdino_pt
+    AddressableAudioReference:
+      m_AssetGUID: e295613d6b5b6ca488d12c752b3db5e1
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    PreloadAsset: 0
+    HasAssetReference: 1
+  - AssetName: fx_tx_dinos_talldino
+    LocalAssetName: fx_tx_dinos_talldino_pt
+    AddressableAudioReference:
+      m_AssetGUID: 0aea8345f80d3c041ac514179f7c3f5f
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    PreloadAsset: 0
+    HasAssetReference: 1
+  - AssetName: fx_tx_dinos_yellowdino
+    LocalAssetName: fx_tx_dinos_yellowdino_pt
+    AddressableAudioReference:
+      m_AssetGUID: 3f9f9b084f9dc7f42bd133e71ac27eb0
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    PreloadAsset: 0
+    HasAssetReference: 1
+  - AssetName: fx_tx_farm_cat
+    LocalAssetName: fx_tx_farm_cat_pt
+    AddressableAudioReference:
+      m_AssetGUID: 8a2f1ea4880b3c74da9b738e6799b478
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    PreloadAsset: 0
+    HasAssetReference: 1
+  - AssetName: fx_tx_farm_cow
+    LocalAssetName: fx_tx_farm_cow_pt
+    AddressableAudioReference:
+      m_AssetGUID: 3b2e05c20db1f6e4d91625dd98da3279
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    PreloadAsset: 0
+    HasAssetReference: 1
+  - AssetName: fx_tx_farm_dog
+    LocalAssetName: fx_tx_farm_dog_pt
+    AddressableAudioReference:
+      m_AssetGUID: 50e7b27a2912cd44ca2efc266d107a8c
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    PreloadAsset: 0
+    HasAssetReference: 1
+  - AssetName: fx_tx_farm_farmer
+    LocalAssetName: fx_tx_farm_farmer_pt
+    AddressableAudioReference:
+      m_AssetGUID: 8b13da4f4d5a44f49a9f2473ab1adadc
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    PreloadAsset: 0
+    HasAssetReference: 1
+  - AssetName: fx_tx_farm_farmlife
+    LocalAssetName: fx_tx_farm_farmlife_pt
+    AddressableAudioReference:
+      m_AssetGUID: 8c7e171613cda3d4c9a4fe8ebd2882b5
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    PreloadAsset: 0
+    HasAssetReference: 1
+  - AssetName: fx_tx_farm_goat
+    LocalAssetName: fx_tx_farm_goat_pt
+    AddressableAudioReference:
+      m_AssetGUID: fd456744bcfce5d4fb8344b61e27e20b
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    PreloadAsset: 0
+    HasAssetReference: 1
+  - AssetName: fx_tx_farm_goose
+    LocalAssetName: fx_tx_farm_goose_pt
+    AddressableAudioReference:
+      m_AssetGUID: 72d7651212552544d9d5dd72af6765ba
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    PreloadAsset: 0
+    HasAssetReference: 1
+  - AssetName: fx_tx_farm_hen
+    LocalAssetName: fx_tx_farm_hen_pt
+    AddressableAudioReference:
+      m_AssetGUID: 4cee4df3d5f8ebd4b870ee33c0f5acc6
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    PreloadAsset: 0
+    HasAssetReference: 1
+  - AssetName: fx_tx_farm_horse
+    LocalAssetName: fx_tx_farm_horse_pt
+    AddressableAudioReference:
+      m_AssetGUID: 4d076cc3899db0a43b098dcf67c23d93
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    PreloadAsset: 0
+    HasAssetReference: 1
+  - AssetName: fx_tx_farm_house
+    LocalAssetName: fx_tx_farm_house_pt
+    AddressableAudioReference:
+      m_AssetGUID: 6749cc2be6c93794295eae48a3b4b5ce
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    PreloadAsset: 0
+    HasAssetReference: 1
+  - AssetName: fx_tx_farm_pig
+    LocalAssetName: fx_tx_farm_pig_pt
+    AddressableAudioReference:
+      m_AssetGUID: fa370f68808dbff438969d6f755305fc
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    PreloadAsset: 0
+    HasAssetReference: 1
+  - AssetName: fx_tx_farm_rabbit
+    LocalAssetName: fx_tx_farm_rabbit_pt
+    AddressableAudioReference:
+      m_AssetGUID: 74274b46e703a7347bfe7a3b4cbf6ad8
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    PreloadAsset: 0
+    HasAssetReference: 1
+  - AssetName: fx_tx_farm_rooster
+    LocalAssetName: fx_tx_farm_rooster_pt
+    AddressableAudioReference:
+      m_AssetGUID: ca45fb7115e9c3e4ab74d15df8abdc97
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    PreloadAsset: 0
+    HasAssetReference: 1
+  - AssetName: fx_tx_flowers_cactus
+    LocalAssetName: fx_tx_flowers_cactus_pt
+    AddressableAudioReference:
+      m_AssetGUID: 6d425f0f47556d54eaf13ba3cb102d90
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    PreloadAsset: 0
+    HasAssetReference: 1
+  - AssetName: fx_tx_flowers_fascinating
+    LocalAssetName: fx_tx_flowers_fascinating_pt
+    AddressableAudioReference:
+      m_AssetGUID: c8329e20b8e203c438539e51e2e6766b
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    PreloadAsset: 0
+    HasAssetReference: 1
+  - AssetName: fx_tx_flowers_happyflower
+    LocalAssetName: fx_tx_flowers_happyflower_pt
+    AddressableAudioReference:
+      m_AssetGUID: 3c04aada720112d49a4cf1dd626f00e2
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    PreloadAsset: 0
+    HasAssetReference: 1
+  - AssetName: fx_tx_flowers_interesting
+    LocalAssetName: fx_tx_flowers_interesting_pt
+    AddressableAudioReference:
+      m_AssetGUID: 9ffc39bfdb66b3543a9000dae506050c
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    PreloadAsset: 0
+    HasAssetReference: 1
+  - AssetName: fx_tx_flowers_redflower
+    LocalAssetName: fx_tx_flowers_redflower_pt
+    AddressableAudioReference:
+      m_AssetGUID: e065c9168bd7c0146bd8420d908ce9da
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    PreloadAsset: 0
+    HasAssetReference: 1
+  - AssetName: fx_tx_flowers_sunflower
+    LocalAssetName: fx_tx_flowers_sunflower_pt
+    AddressableAudioReference:
+      m_AssetGUID: bd7e2b332b39aec499a35365543b5073
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    PreloadAsset: 0
+    HasAssetReference: 1
+  - AssetName: fx_tx_flowers_wonderfull
+    LocalAssetName: fx_tx_flowers_wonderfull_pt
+    AddressableAudioReference:
+      m_AssetGUID: 0a337ff6fe9ac3643ac47ba81630a781
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    PreloadAsset: 0
+    HasAssetReference: 1
+  - AssetName: fx_tx_flowers_yellowflower
+    LocalAssetName: fx_tx_flowers_yellowflower_pt
+    AddressableAudioReference:
+      m_AssetGUID: eb0cde33097bdcd46a26fb9d3d6ef957
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    PreloadAsset: 0
+    HasAssetReference: 1
+  - AssetName: fx_tx_kitchen_avocado
+    LocalAssetName: fx_tx_kitchen_avocado_pt
+    AddressableAudioReference:
+      m_AssetGUID: 09cdb4db9f782cd4c92382399407aee3
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    PreloadAsset: 0
+    HasAssetReference: 1
+  - AssetName: fx_tx_kitchen_banana
+    LocalAssetName: fx_tx_kitchen_banana_pt
+    AddressableAudioReference:
+      m_AssetGUID: 8740175cfd7bb554ebc4675d85666183
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    PreloadAsset: 0
+    HasAssetReference: 1
+  - AssetName: fx_tx_kitchen_broccoli
+    LocalAssetName: fx_tx_kitchen_broccoli_pt
+    AddressableAudioReference:
+      m_AssetGUID: 1608132bd1f729c42aa9b58bad8d95a9
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    PreloadAsset: 0
+    HasAssetReference: 1
+  - AssetName: fx_tx_kitchen_carrot
+    LocalAssetName: fx_tx_kitchen_carrot_pt
+    AddressableAudioReference:
+      m_AssetGUID: 48283dbf70763ab44b74218f1ebbc6b5
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    PreloadAsset: 0
+    HasAssetReference: 1
+  - AssetName: fx_tx_kitchen_cupcake
+    LocalAssetName: fx_tx_kitchen_cupcake_pt
+    AddressableAudioReference:
+      m_AssetGUID: a267dd098d5e66845834a1aa80009f50
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    PreloadAsset: 0
+    HasAssetReference: 1
+  - AssetName: fx_tx_kitchen_mushroom
+    LocalAssetName: fx_tx_kitchen_mushroom_pt
+    AddressableAudioReference:
+      m_AssetGUID: 6b2ff872cf5ec7342918c82dd5c3795c
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    PreloadAsset: 0
+    HasAssetReference: 1
+  - AssetName: fx_tx_kitchen_pear
+    LocalAssetName: fx_tx_kitchen_pear_pt
+    AddressableAudioReference:
+      m_AssetGUID: 4e696037ca37b694f832fd025841be09
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    PreloadAsset: 0
+    HasAssetReference: 1
+  - AssetName: fx_tx_kitchen_pepper
+    LocalAssetName: fx_tx_kitchen_pepper_pt
+    AddressableAudioReference:
+      m_AssetGUID: 841d08da0ce98c7448fe4791983960ec
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    PreloadAsset: 0
+    HasAssetReference: 1
+  - AssetName: fx_tx_kitchen_strawberry
+    LocalAssetName: fx_tx_kitchen_strawberry_pt
+    AddressableAudioReference:
+      m_AssetGUID: f603d425c2a1c674195ff59c9c66e81a
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    PreloadAsset: 0
+    HasAssetReference: 1
+  - AssetName: fx_tx_kitchen_tomato
+    LocalAssetName: fx_tx_kitchen_tomato_pt
+    AddressableAudioReference:
+      m_AssetGUID: 4825be13b1298ca45b434b9ed10e2bdc
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    PreloadAsset: 0
+    HasAssetReference: 1
+  - AssetName: fx_tx_kitchen_watermelon
+    LocalAssetName: fx_tx_kitchen_watermelon_pt
+    AddressableAudioReference:
+      m_AssetGUID: d8f7d72b64385b0438a299c09e81e903
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    PreloadAsset: 0
+    HasAssetReference: 1
+  - AssetName: fx_tx_kitchen_yummyfood
+    LocalAssetName: fx_tx_kitchen_yummyfood_pt
+    AddressableAudioReference:
+      m_AssetGUID: 1e9ca12f75cc08d4483e0eef1e915a07
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    PreloadAsset: 0
+    HasAssetReference: 1
+  - AssetName: fx_tx_sea_anglerfish
+    LocalAssetName: fx_tx_sea_anglerfish_pt
+    AddressableAudioReference:
+      m_AssetGUID: 1d3cdc0eb9cd18f408ca2b5a46f68352
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    PreloadAsset: 0
+    HasAssetReference: 1
+  - AssetName: fx_tx_sea_crab
+    LocalAssetName: fx_tx_sea_crab_pt
+    AddressableAudioReference:
+      m_AssetGUID: 444030461d27e844985e1262f85ecf46
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    PreloadAsset: 0
+    HasAssetReference: 1
+  - AssetName: fx_tx_sea_octopus
+    LocalAssetName: fx_tx_sea_octopus_pt
+    AddressableAudioReference:
+      m_AssetGUID: ef4bc06f8185a914a9e6e06752aea56c
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    PreloadAsset: 0
+    HasAssetReference: 1
+  - AssetName: fx_tx_sea_orangefish
+    LocalAssetName: fx_tx_sea_orangefish_pt
+    AddressableAudioReference:
+      m_AssetGUID: 402490c286afb384585a1d43e158e90a
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    PreloadAsset: 0
+    HasAssetReference: 1
+  - AssetName: fx_tx_sea_pinkfish
+    LocalAssetName: fx_tx_sea_pinkfish_pt
+    AddressableAudioReference:
+      m_AssetGUID: b5568d6c525548540a5f4290fc464681
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    PreloadAsset: 0
+    HasAssetReference: 1
+  - AssetName: fx_tx_sea_pufferfish
+    LocalAssetName: fx_tx_sea_pufferfish_pt
+    AddressableAudioReference:
+      m_AssetGUID: 239ab7400450261458881b46ff395c2c
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    PreloadAsset: 0
+    HasAssetReference: 1
+  - AssetName: fx_tx_sea_seahorse
+    LocalAssetName: fx_tx_sea_seahorse_pt
+    AddressableAudioReference:
+      m_AssetGUID: 56be5499d17f8634aa44c871101a2ab0
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    PreloadAsset: 0
+    HasAssetReference: 1
+  - AssetName: fx_tx_sea_seastar
+    LocalAssetName: fx_tx_sea_seastar_pt
+    AddressableAudioReference:
+      m_AssetGUID: 7842b1b6816f3834ebcc01e1bbd7d522
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    PreloadAsset: 0
+    HasAssetReference: 1
+  - AssetName: fx_tx_sea_shellcrab
+    LocalAssetName: fx_tx_sea_shellcrab_pt
+    AddressableAudioReference:
+      m_AssetGUID: e1196aa85fa786a4fbd13c1ead6e2ccd
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    PreloadAsset: 0
+    HasAssetReference: 1
+  - AssetName: fx_tx_sea_stripefish
+    LocalAssetName: fx_tx_sea_stripefish_pt
+    AddressableAudioReference:
+      m_AssetGUID: 429139bda6978054181df0eda1d10f0a
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    PreloadAsset: 0
+    HasAssetReference: 1
+  - AssetName: fx_tx_sea_waterworld
+    LocalAssetName: fx_tx_sea_waterworld_pt
+    AddressableAudioReference:
+      m_AssetGUID: c307c4557aaa7e444a7e395cbb2a2667
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    PreloadAsset: 0
+    HasAssetReference: 1
+  - AssetName: fx_tx_sea_yellowfish
+    LocalAssetName: fx_tx_sea_yellowfish_pt
+    AddressableAudioReference:
+      m_AssetGUID: 0e62d2d76f5d1d4469f72d9dfb3ca26e
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    PreloadAsset: 0
+    HasAssetReference: 1
+  - AssetName: fx_tx_toys_ball
+    LocalAssetName: fx_tx_toys_ball_pt
+    AddressableAudioReference:
+      m_AssetGUID: 0e23d0faa8d88524f96e4dd5c6b41301
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    PreloadAsset: 0
+    HasAssetReference: 1
+  - AssetName: fx_tx_toys_christmastree
+    LocalAssetName: fx_tx_toys_christmastree_pt
+    AddressableAudioReference:
+      m_AssetGUID: 151fb269e3ad0af4abf5a6ca30933919
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    PreloadAsset: 0
+    HasAssetReference: 1
+  - AssetName: fx_tx_toys_colortower
+    LocalAssetName: fx_tx_toys_colortower_pt
+    AddressableAudioReference:
+      m_AssetGUID: d0ecb7ac0d1e4e64ba7b9f21a67664c2
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    PreloadAsset: 0
+    HasAssetReference: 1
+  - AssetName: fx_tx_toys_drums
+    LocalAssetName: fx_tx_toys_drums_pt
+    AddressableAudioReference:
+      m_AssetGUID: 3a50e8c39512af543a94381fab97dda4
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    PreloadAsset: 0
+    HasAssetReference: 1
+  - AssetName: fx_tx_toys_funtoys
+    LocalAssetName: fx_tx_toys_funtoys_pt
+    AddressableAudioReference:
+      m_AssetGUID: c19c1308b09028c40b3862de6bad2f4e
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    PreloadAsset: 0
+    HasAssetReference: 1
+  - AssetName: fx_tx_toys_guitar
+    LocalAssetName: fx_tx_toys_guitar_pt
+    AddressableAudioReference:
+      m_AssetGUID: 20a7bb0a17e1fcc4193cb0e636b13ae4
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    PreloadAsset: 0
+    HasAssetReference: 1
+  - AssetName: fx_tx_toys_hellicopter
+    LocalAssetName: fx_tx_toys_hellicopter_pt
+    AddressableAudioReference:
+      m_AssetGUID: a0ba6975896c8004eb6af020b6c6ecfd
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    PreloadAsset: 0
+    HasAssetReference: 1
+  - AssetName: fx_tx_toys_kite
+    LocalAssetName: fx_tx_toys_kite_pt
+    AddressableAudioReference:
+      m_AssetGUID: 1e437cabe648aa94192085f3f3745699
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    PreloadAsset: 0
+    HasAssetReference: 1
+  - AssetName: fx_tx_toys_rubberduck
+    LocalAssetName: fx_tx_toys_rubberduck_pt
+    AddressableAudioReference:
+      m_AssetGUID: ec00c0781792fd942b05bd3f42175710
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    PreloadAsset: 0
+    HasAssetReference: 1
+  - AssetName: fx_tx_toys_submarine
+    LocalAssetName: fx_tx_submarine_pt
+    AddressableAudioReference:
+      m_AssetGUID: c2a23dc39ba301d49930d7b1afb0ef05
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    PreloadAsset: 0
+    HasAssetReference: 1
+  - AssetName: fx_tx_vehicles_airballoon
+    LocalAssetName: fx_tx_vehicles_airballoon_pt
+    AddressableAudioReference:
+      m_AssetGUID: 11ce4145e417c224ca9b36f2568c96c5
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    PreloadAsset: 0
+    HasAssetReference: 1
+  - AssetName: fx_tx_vehicles_bike
+    LocalAssetName: fx_tx_vehicles_bike_pt
+    AddressableAudioReference:
+      m_AssetGUID: e3e8542bed0789244b52232cd4d37203
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    PreloadAsset: 0
+    HasAssetReference: 1
+  - AssetName: fx_tx_vehicles_bluecar
+    LocalAssetName: fx_tx_vehicles_bluecar_pt
+    AddressableAudioReference:
+      m_AssetGUID: 829f4886eb6338445b868dc33ebfe954
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    PreloadAsset: 0
+    HasAssetReference: 1
+  - AssetName: fx_tx_vehicles_rocket
+    LocalAssetName: fx_tx_vehicles_rocket_pt
+    AddressableAudioReference:
+      m_AssetGUID: 738b8cce62c5a7744a87e1f199d5af75
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    PreloadAsset: 0
+    HasAssetReference: 1
+  - AssetName: fx_tx_vehicles_to_ride
+    LocalAssetName: fx_tx_vehicles_to_ride_pt
+    AddressableAudioReference:
+      m_AssetGUID: 148893afd1b0f2a4d9e3bf0f90f9ff39
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    PreloadAsset: 0
+    HasAssetReference: 1
+  - AssetName: fx_tx_vehicles_tractor
+    LocalAssetName: fx_tx_vehicles_tractor_pt
+    AddressableAudioReference:
+      m_AssetGUID: 6280ddb73e6332d4986f82c9c98f5ce9
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    PreloadAsset: 0
+    HasAssetReference: 1
+  - AssetName: fx_tx_vehicles_train
+    LocalAssetName: fx_tx_vehicles_train_pt
+    AddressableAudioReference:
+      m_AssetGUID: 11b7119efa50d774c96ad08bc669c74c
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    PreloadAsset: 0
+    HasAssetReference: 1
+  - AssetName: fx_tx_vehicles_truck
+    LocalAssetName: fx_tx_vehicles_truck_pt
+    AddressableAudioReference:
+      m_AssetGUID: df7e6c1c3f0a11145b657f1f4e58723a
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    PreloadAsset: 0
+    HasAssetReference: 1
+  - AssetName: fx_tx_vehicles_ufo
+    LocalAssetName: fx_tx_vehicles_ufo_pt
+    AddressableAudioReference:
+      m_AssetGUID: 7c3d0908db75bc34e8f998a741e9d84a
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    PreloadAsset: 0
+    HasAssetReference: 1
+  - AssetName: fx_tx_vehicles_yellowcar
+    LocalAssetName: fx_tx_vehicles_yellowcar_pt
+    AddressableAudioReference:
+      m_AssetGUID: 88c26d205f0a3ed478152ea5cf8351a2
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    PreloadAsset: 0
+    HasAssetReference: 1
+  - AssetName: fx_tx_arctic_fox
+    LocalAssetName: fx_tx_animals_fox_pt
+    AddressableAudioReference:
+      m_AssetGUID: bef162ac31dbe854bbe7eaf30b3c5f75
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    PreloadAsset: 0
+    HasAssetReference: 1
+  - AssetName: fx_tx_arctic_polar_bear
+    LocalAssetName: fx_tx_arctic_polar_bear_pt
+    AddressableAudioReference:
+      m_AssetGUID: 1094c6dfbe2fe84479bbf28ff630c2cb
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    PreloadAsset: 0
+    HasAssetReference: 1
+  - AssetName: fx_tx_arctic_whale
+    LocalAssetName: fx_tx_arctic_whale_pt
+    AddressableAudioReference:
+      m_AssetGUID: 04fc10acb67b5cc40b9ae17f5a3df3f0
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    PreloadAsset: 0
+    HasAssetReference: 1
+  - AssetName: fx_tx_dinos_pterodactyl
+    LocalAssetName: fx_tx_dinos_pterodactyl_pt
+    AddressableAudioReference:
+      m_AssetGUID: 9558638787bcb2147856587681a4ca83
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    PreloadAsset: 0
+    HasAssetReference: 1
+  - AssetName: fx_tx_dinos_pterosaur
+    LocalAssetName: fx_tx_dinos_pterosaur_pt
+    AddressableAudioReference:
+      m_AssetGUID: 721632531756d9141961145067001eee
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    PreloadAsset: 0
+    HasAssetReference: 1
+  - AssetName: fx_tx_jungle_beaver
+    LocalAssetName: fx_tx_jungle_beaver_pt
+    AddressableAudioReference:
+      m_AssetGUID: 9fc289fa4a2481a468655afa2e2fc9eb
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    PreloadAsset: 0
+    HasAssetReference: 1
+  - AssetName: fx_tx_jungle_iguana
+    LocalAssetName: 
+    AddressableAudioReference:
+      m_AssetGUID: 
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    PreloadAsset: 0
+    HasAssetReference: 0
+  - AssetName: fx_tx_jungle_racoon
+    LocalAssetName: fx_tx_jungle_racoon_pt
+    AddressableAudioReference:
+      m_AssetGUID: 824bebd6260a41b4589475033a3a2bcc
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    PreloadAsset: 0
+    HasAssetReference: 1
+  - AssetName: fx_tx_0
+    LocalAssetName: fx_tx_0_pt
+    AddressableAudioReference:
+      m_AssetGUID: 8fe42538b9194ec4887fe6d10a9aa029
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    PreloadAsset: 0
+    HasAssetReference: 1
+  - AssetName: fx_tx_safari_kangaroo
+    LocalAssetName: fx_tx_safari_kangaroo_pt
+    AddressableAudioReference:
+      m_AssetGUID: 7447c9bb0f7d1bf4489d98cae31df2d7
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    PreloadAsset: 0
+    HasAssetReference: 1
+  - AssetName: fx_tx_star
+    LocalAssetName: fx_tx_star_pt
+    AddressableAudioReference:
+      m_AssetGUID: 23f0f60e6dbcbe744bd628fc280c0b08
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    PreloadAsset: 0
+    HasAssetReference: 1
+  - AssetName: fx_tx_yard_turtle
+    LocalAssetName: fx_tx_sea_turtle_pt
+    AddressableAudioReference:
+      m_AssetGUID: 64aecba5609b8cc4e85d4077b86cf65e
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    PreloadAsset: 0
+    HasAssetReference: 1
+  - AssetName: fx_tx_pets_bath_time
+    LocalAssetName: fx_tx_bath_time_pt
+    AddressableAudioReference:
+      m_AssetGUID: 08aa44e8ee542064da7fec8d881cc346
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    PreloadAsset: 0
+    HasAssetReference: 1
+  - AssetName: fx_tx_pets_so_clean
+    LocalAssetName: fx_tx_pets_so_clean_pt
+    AddressableAudioReference:
+      m_AssetGUID: 137e48ab39416ed42aa4bb6239725aba
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    PreloadAsset: 0
+    HasAssetReference: 1
+  - AssetName: fx_tx_lets_start
+    LocalAssetName: fx_tx_lets_start_pt
+    AddressableAudioReference:
+      m_AssetGUID: e4b521a0d02fe5f468e1e8a881c3a590
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    PreloadAsset: 0
+    HasAssetReference: 1
+  - AssetName: fx_tx_tiger
+    LocalAssetName: fx_tx_tiger_pt
+    AddressableAudioReference:
+      m_AssetGUID: e29d6805dbfb6694ea4d8f4ab501e1dd
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    PreloadAsset: 0
+    HasAssetReference: 1
+  - AssetName: fx_tx_zebra
+    LocalAssetName: fx_tx_zebra_pt
+    AddressableAudioReference:
+      m_AssetGUID: 339184049c854b24bac24b54c00b9472
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    PreloadAsset: 0
+    HasAssetReference: 1
+  - AssetName: fx_tx_jungle_parrot
+    LocalAssetName: fx_tx_jungle_parrot_pt
+    AddressableAudioReference:
+      m_AssetGUID: 7ba0cdf9f1ebac14899914a1a3526218
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    PreloadAsset: 0
+    HasAssetReference: 1
+  - AssetName: fx_tx_jungle_rhino
+    LocalAssetName: fx_tx_jungle_rhino_pt
+    AddressableAudioReference:
+      m_AssetGUID: 386c1e3b1d81199439aa2668054b90e7
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    PreloadAsset: 0
+    HasAssetReference: 1
+  - AssetName: fx_tx_sheep
+    LocalAssetName: fx_tx_sheep_pt
+    AddressableAudioReference:
+      m_AssetGUID: 2760e84a9480301409cf033a0a4e7681
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    PreloadAsset: 0
+    HasAssetReference: 1
+  - AssetName: fx_tx_black
+    LocalAssetName: fx_tx_black_pt
+    AddressableAudioReference:
+      m_AssetGUID: f16b59a90c7fb444fb7bb8e52fc016f9
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    PreloadAsset: 0
+    HasAssetReference: 1
+  - AssetName: fx_tx_blue
+    LocalAssetName: fx_tx_blue_pt
+    AddressableAudioReference:
+      m_AssetGUID: 27bdbd5454d805e4580ed0ca3778bf73
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    PreloadAsset: 0
+    HasAssetReference: 1
+  - AssetName: fx_tx_brown
+    LocalAssetName: fx_tx_brown_pt
+    AddressableAudioReference:
+      m_AssetGUID: 2e44b5fae1c9e2f419560ffec3c25c0a
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    PreloadAsset: 0
+    HasAssetReference: 1
+  - AssetName: fx_tx_green
+    LocalAssetName: fx_tx_green_pt
+    AddressableAudioReference:
+      m_AssetGUID: a2cb408a7a348f24593d9465377663b8
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    PreloadAsset: 0
+    HasAssetReference: 1
+  - AssetName: fx_tx_grey
+    LocalAssetName: fx_tx_grey_pt
+    AddressableAudioReference:
+      m_AssetGUID: 75222a20dc1797f418d4c0313368ee14
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    PreloadAsset: 0
+    HasAssetReference: 1
+  - AssetName: fx_tx_orange
+    LocalAssetName: fx_tx_orange_pt
+    AddressableAudioReference:
+      m_AssetGUID: a4dabf91e7993ef4889ff5afdca2637c
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    PreloadAsset: 0
+    HasAssetReference: 1
+  - AssetName: fx_tx_pink
+    LocalAssetName: fx_tx_pink_pt
+    AddressableAudioReference:
+      m_AssetGUID: f40559bb0377f5d469fe59601f8da664
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    PreloadAsset: 0
+    HasAssetReference: 1
+  - AssetName: fx_tx_purple
+    LocalAssetName: fx_tx_purple_pt
+    AddressableAudioReference:
+      m_AssetGUID: b0f0f796b5129fb4cb9092e653c26400
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    PreloadAsset: 0
+    HasAssetReference: 1
+  - AssetName: fx_tx_red
+    LocalAssetName: fx_tx_red_pt
+    AddressableAudioReference:
+      m_AssetGUID: f79a2a7ad0f369f4c8775dab15e3b500
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    PreloadAsset: 0
+    HasAssetReference: 1
+  - AssetName: fx_tx_white
+    LocalAssetName: fx_tx_white_pt
+    AddressableAudioReference:
+      m_AssetGUID: c9f5db87bb2364b4abea8b08845f545c
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    PreloadAsset: 0
+    HasAssetReference: 1
+  - AssetName: fx_tx_yellow
+    LocalAssetName: fx_tx_yellow_pt
+    AddressableAudioReference:
+      m_AssetGUID: 35106e3c080f24444a63d4831df6cba7
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    PreloadAsset: 0
+    HasAssetReference: 1
+  - AssetName: fx_tx_sea_turtle
+    LocalAssetName: fx_tx_sea_turtle_pt
+    AddressableAudioReference:
+      m_AssetGUID: 64aecba5609b8cc4e85d4077b86cf65e
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    PreloadAsset: 0
+    HasAssetReference: 1
+  - AssetName: fx_tx_game_is_locked
+    LocalAssetName: fx_tx_game_is_locked_pt
+    AddressableAudioReference:
+      m_AssetGUID: c3cff419abeb56245b1bf85296099e50
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    PreloadAsset: 0
+    HasAssetReference: 1
+  - AssetName: fx_tx_bath_time
+    LocalAssetName: fx_tx_bath_time_pt
+    AddressableAudioReference:
+      m_AssetGUID: 08aa44e8ee542064da7fec8d881cc346
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    PreloadAsset: 0
+    HasAssetReference: 1
+  - AssetName: fx_tx_1
+    LocalAssetName: fx_tx_1_pt
+    AddressableAudioReference:
+      m_AssetGUID: 14d811cb366acae4a98242a115f94896
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    PreloadAsset: 0
+    HasAssetReference: 1
+  - AssetName: fx_tx_2
+    LocalAssetName: fx_tx_2_pt
+    AddressableAudioReference:
+      m_AssetGUID: 880cd4ddf595e6349a3dbcf42a2646f4
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    PreloadAsset: 0
+    HasAssetReference: 1
+  - AssetName: fx_tx_3
+    LocalAssetName: fx_tx_3_pt
+    AddressableAudioReference:
+      m_AssetGUID: fb6b766bda5e17049b08e2575137dcc6
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    PreloadAsset: 0
+    HasAssetReference: 1
+  - AssetName: fx_tx_4
+    LocalAssetName: fx_tx_4_pt
+    AddressableAudioReference:
+      m_AssetGUID: d6d53216b84a18542816c0873f0f45ed
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    PreloadAsset: 0
+    HasAssetReference: 1
+  - AssetName: fx_tx_5
+    LocalAssetName: fx_tx_5_pt
+    AddressableAudioReference:
+      m_AssetGUID: 8566743b8997f8748bdd44c1e15c2d6f
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    PreloadAsset: 0
+    HasAssetReference: 1
+  - AssetName: fx_tx_6
+    LocalAssetName: fx_tx_6_pt
+    AddressableAudioReference:
+      m_AssetGUID: 93505c6540abd5f49a5904895294a901
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    PreloadAsset: 0
+    HasAssetReference: 1
+  - AssetName: fx_tx_7
+    LocalAssetName: fx_tx_7_pt
+    AddressableAudioReference:
+      m_AssetGUID: 75cb0f91a2fe3094f8f75fb90e2de268
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    PreloadAsset: 0
+    HasAssetReference: 1
+  - AssetName: fx_tx_8
+    LocalAssetName: fx_tx_8_pt
+    AddressableAudioReference:
+      m_AssetGUID: 87db36a0dcec7d24fbb4e8e8b16f8d5d
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    PreloadAsset: 0
+    HasAssetReference: 1
+  - AssetName: fx_tx_9
+    LocalAssetName: fx_tx_9_pt
+    AddressableAudioReference:
+      m_AssetGUID: 49feb895898028e47bffbd7767f43813
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    PreloadAsset: 0
+    HasAssetReference: 1
+  - AssetName: fx_tx_1
+    LocalAssetName: fx_tx_1_pt
+    AddressableAudioReference:
+      m_AssetGUID: 14d811cb366acae4a98242a115f94896
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    PreloadAsset: 0
+    HasAssetReference: 1
+  - AssetName: fx_tx_2
+    LocalAssetName: fx_tx_2_pt
+    AddressableAudioReference:
+      m_AssetGUID: 880cd4ddf595e6349a3dbcf42a2646f4
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    PreloadAsset: 0
+    HasAssetReference: 1
+  - AssetName: fx_tx_3
+    LocalAssetName: fx_tx_3_pt
+    AddressableAudioReference:
+      m_AssetGUID: fb6b766bda5e17049b08e2575137dcc6
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    PreloadAsset: 0
+    HasAssetReference: 1
+  - AssetName: fx_tx_4
+    LocalAssetName: fx_tx_4_pt
+    AddressableAudioReference:
+      m_AssetGUID: d6d53216b84a18542816c0873f0f45ed
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    PreloadAsset: 0
+    HasAssetReference: 1
+  - AssetName: fx_tx_5
+    LocalAssetName: fx_tx_5_pt
+    AddressableAudioReference:
+      m_AssetGUID: 8566743b8997f8748bdd44c1e15c2d6f
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    PreloadAsset: 0
+    HasAssetReference: 1
+  - AssetName: fx_tx_6
+    LocalAssetName: fx_tx_6_pt
+    AddressableAudioReference:
+      m_AssetGUID: 93505c6540abd5f49a5904895294a901
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    PreloadAsset: 0
+    HasAssetReference: 1
+  - AssetName: fx_tx_7
+    LocalAssetName: fx_tx_7_pt
+    AddressableAudioReference:
+      m_AssetGUID: 75cb0f91a2fe3094f8f75fb90e2de268
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    PreloadAsset: 0
+    HasAssetReference: 1
+  - AssetName: fx_tx_8
+    LocalAssetName: fx_tx_8_pt
+    AddressableAudioReference:
+      m_AssetGUID: 87db36a0dcec7d24fbb4e8e8b16f8d5d
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    PreloadAsset: 0
+    HasAssetReference: 1
+  - AssetName: fx_tx_9
+    LocalAssetName: fx_tx_9_pt
+    AddressableAudioReference:
+      m_AssetGUID: 49feb895898028e47bffbd7767f43813
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    PreloadAsset: 0
+    HasAssetReference: 1
+  - AssetName: fx_tx_10
+    LocalAssetName: 
+    AddressableAudioReference:
+      m_AssetGUID: 
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    PreloadAsset: 0
+    HasAssetReference: 0
+  - AssetName: fx_tx_angel
+    LocalAssetName: fx_tx_angle_pt
+    AddressableAudioReference:
+      m_AssetGUID: 82aaae357bf351d40908744839275e7a
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    PreloadAsset: 0
+    HasAssetReference: 1
+  - AssetName: fx_tx_apple
+    LocalAssetName: fx_tx_apple_pt
+    AddressableAudioReference:
+      m_AssetGUID: 2cfd8617f2e333644acc030a67971120
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    PreloadAsset: 0
+    HasAssetReference: 1
+  - AssetName: fx_tx_donut
+    LocalAssetName: fx_tx_donut_pt
+    AddressableAudioReference:
+      m_AssetGUID: 0c5108f9ba74d774d871a2612e0ac577
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    PreloadAsset: 0
+    HasAssetReference: 1
+  - AssetName: fx_tx_duck
+    LocalAssetName: fx_tx_duck_pt
+    AddressableAudioReference:
+      m_AssetGUID: 8e84769abe7a53f48af5ce05fce6c573
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    PreloadAsset: 0
+    HasAssetReference: 1
+  - AssetName: fx_tx_eagle
+    LocalAssetName: fx_tx_eagle_pt
+    AddressableAudioReference:
+      m_AssetGUID: f0e29849307a6ea4a81e2d5450e31783
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    PreloadAsset: 0
+    HasAssetReference: 1
+  - AssetName: fx_tx_egg
+    LocalAssetName: fx_tx_egg_pt
+    AddressableAudioReference:
+      m_AssetGUID: 995479761d5b15146b86ca1a44d885de
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    PreloadAsset: 0
+    HasAssetReference: 1
+  - AssetName: fx_tx_fish
+    LocalAssetName: fx_tx_fish_pt
+    AddressableAudioReference:
+      m_AssetGUID: 828cd54213d391945a74d5a7f88b1edf
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    PreloadAsset: 0
+    HasAssetReference: 1
+  - AssetName: fx_tx_grape
+    LocalAssetName: fx_tx_grape_pt
+    AddressableAudioReference:
+      m_AssetGUID: 78f6a65653a05b246a88ea676b73d3af
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    PreloadAsset: 0
+    HasAssetReference: 1
+  - AssetName: fx_tx_grass
+    LocalAssetName: fx_tx_grass_pt
+    AddressableAudioReference:
+      m_AssetGUID: 261bc0a11a1f6264da6f666f1967b855
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    PreloadAsset: 0
+    HasAssetReference: 1
+  - AssetName: fx_tx_ice
+    LocalAssetName: fx_tx_ice_pt
+    AddressableAudioReference:
+      m_AssetGUID: 1cf33693a7c49d843ad2357e00ac6470
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    PreloadAsset: 0
+    HasAssetReference: 1
+  - AssetName: fx_tx_icecream
+    LocalAssetName: fx_tx_icecream_pt
+    AddressableAudioReference:
+      m_AssetGUID: 5089b438c7a8e0e4eb12123ddfb6a81d
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    PreloadAsset: 0
+    HasAssetReference: 1
+  - AssetName: fx_tx_jam
+    LocalAssetName: fx_tx_jam_pt
+    AddressableAudioReference:
+      m_AssetGUID: 72d63cd218ce4b64384196d3a047e07a
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    PreloadAsset: 0
+    HasAssetReference: 1
+  - AssetName: fx_tx_moon
+    LocalAssetName: fx_tx_moon_pt
+    AddressableAudioReference:
+      m_AssetGUID: 3ff9fbf8ffea6bd4186945d8596ebd65
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    PreloadAsset: 0
+    HasAssetReference: 1
+  - AssetName: fx_tx_nut
+    LocalAssetName: fx_tx_nut_pt
+    AddressableAudioReference:
+      m_AssetGUID: a96c851a633557145a9ce8f95c53855e
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    PreloadAsset: 0
+    HasAssetReference: 1
+  - AssetName: fx_tx_owl
+    LocalAssetName: fx_tx_owl_pt
+    AddressableAudioReference:
+      m_AssetGUID: f7070750706a1894f841c5690de2f871
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    PreloadAsset: 0
+    HasAssetReference: 1
+  - AssetName: fx_tx_penguin
+    LocalAssetName: fx_tx_penguin_pt
+    AddressableAudioReference:
+      m_AssetGUID: 5abd76a2d4680af4a97dab870e9241b0
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    PreloadAsset: 0
+    HasAssetReference: 1
+  - AssetName: fx_tx_quail
+    LocalAssetName: fx_tx_quail_pt
+    AddressableAudioReference:
+      m_AssetGUID: 5f2bf28e7f7f5b1478161561b086c46e
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    PreloadAsset: 0
+    HasAssetReference: 1
+  - AssetName: fx_tx_snake
+    LocalAssetName: fx_tx_snake_pt
+    AddressableAudioReference:
+      m_AssetGUID: e15f9063c219cb74bbd168678b341967
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    PreloadAsset: 0
+    HasAssetReference: 1
+  - AssetName: fx_tx_van
+    LocalAssetName: fx_tx_van_pt
+    AddressableAudioReference:
+      m_AssetGUID: 221e7fd6b93afbd40996322e0d8d8df8
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    PreloadAsset: 0
+    HasAssetReference: 1
+  - AssetName: fx_tx_zero
+    LocalAssetName: fx_tx_zebra_pt
+    AddressableAudioReference:
+      m_AssetGUID: 339184049c854b24bac24b54c00b9472
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    PreloadAsset: 0
+    HasAssetReference: 1
+  - AssetName: fx_tx_bye_bye
+    LocalAssetName: fx_tx_bye_bye_pt
+    AddressableAudioReference:
+      m_AssetGUID: 4aa9dd7add18bff4b9e240fabc082414
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    PreloadAsset: 0
+    HasAssetReference: 1
+  - AssetName: fx_tx_content_is_locked
+    LocalAssetName: fx_tx_content_is_locked_pt
+    AddressableAudioReference:
+      m_AssetGUID: 07873338629ef7d48951d89532188ef2
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    PreloadAsset: 0
+    HasAssetReference: 1
+  - AssetName: fx_tx_content_unlocks_after_countdown
+    LocalAssetName: fx_tx_content_unlocks_after_countdown_pt
+    AddressableAudioReference:
+      m_AssetGUID: 546fcbc6c10a22340b98fdf6e9dbf2fc
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    PreloadAsset: 0
+    HasAssetReference: 1
+  - AssetName: fx_tx_good_job
+    LocalAssetName: fx_tx_good_job_pt
+    AddressableAudioReference:
+      m_AssetGUID: 17f131763c17291429278b4b7093e439
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    PreloadAsset: 0
+    HasAssetReference: 1
+  - AssetName: fx_tx_good_one
+    LocalAssetName: fx_tx_good_one_pt
+    AddressableAudioReference:
+      m_AssetGUID: 4674918584b28c74285053d6a46d9b7d
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    PreloadAsset: 0
+    HasAssetReference: 1
+  - AssetName: fx_tx_great
+    LocalAssetName: fx_tx_great_pt
+    AddressableAudioReference:
+      m_AssetGUID: e6a7b44404bdfe1489f9bedb90547acc
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    PreloadAsset: 0
+    HasAssetReference: 1
+  - AssetName: fx_tx_hello
+    LocalAssetName: fx_tx_hello_pt
+    AddressableAudioReference:
+      m_AssetGUID: 5b498ac4e009490419debc3834087cad
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    PreloadAsset: 0
+    HasAssetReference: 1
+  - AssetName: fx_tx_lets_play
+    LocalAssetName: fx_tx_lets_play_pt
+    AddressableAudioReference:
+      m_AssetGUID: b874b1a8c91061e4792452790457d14e
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    PreloadAsset: 0
+    HasAssetReference: 1
+  - AssetName: fx_tx_lets_start
+    LocalAssetName: fx_tx_lets_start_pt
+    AddressableAudioReference:
+      m_AssetGUID: e4b521a0d02fe5f468e1e8a881c3a590
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    PreloadAsset: 0
+    HasAssetReference: 1
+  - AssetName: fx_tx_nice
+    LocalAssetName: fx_tx_nice_pt
+    AddressableAudioReference:
+      m_AssetGUID: 6af1d09e5d269e444b9dc15bf58d378d
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    PreloadAsset: 0
+    HasAssetReference: 1
+  - AssetName: fx_tx_smart
+    LocalAssetName: fx_tx_smart_pt
+    AddressableAudioReference:
+      m_AssetGUID: 97775f9ae8925c04dbd92bfe01127df4
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    PreloadAsset: 0
+    HasAssetReference: 1
+  - AssetName: fx_tx_thanks1_boy
+    LocalAssetName: fx_tx_thanks1_boy_pt
+    AddressableAudioReference:
+      m_AssetGUID: c32543f4c9f373f43ab4d1b849f67add
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    PreloadAsset: 0
+    HasAssetReference: 1
+  - AssetName: fx_tx_thanks2_boy
+    LocalAssetName: fx_tx_thanks1_boy_pt
+    AddressableAudioReference:
+      m_AssetGUID: c32543f4c9f373f43ab4d1b849f67add
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    PreloadAsset: 0
+    HasAssetReference: 1
+  - AssetName: fx_tx_thanks3_boy
+    LocalAssetName: fx_tx_thanks1_boy_pt
+    AddressableAudioReference:
+      m_AssetGUID: c32543f4c9f373f43ab4d1b849f67add
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    PreloadAsset: 0
+    HasAssetReference: 1
+  - AssetName: fx_tx_thanks4_boy
+    LocalAssetName: fx_tx_thanks1_boy_pt
+    AddressableAudioReference:
+      m_AssetGUID: c32543f4c9f373f43ab4d1b849f67add
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    PreloadAsset: 0
+    HasAssetReference: 1
+  - AssetName: fx_tx_thanks5_boy
+    LocalAssetName: fx_tx_thanks1_boy_pt
+    AddressableAudioReference:
+      m_AssetGUID: c32543f4c9f373f43ab4d1b849f67add
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    PreloadAsset: 0
+    HasAssetReference: 1
+  - AssetName: fx_tx_try_again
+    LocalAssetName: fx_tx_try_again_pt
+    AddressableAudioReference:
+      m_AssetGUID: 10d34be3bfebb1e4ab00e422dff50b90
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    PreloadAsset: 0
+    HasAssetReference: 1
+  - AssetName: fx_tx_welcome
+    LocalAssetName: fx_tx_welcome_pt
+    AddressableAudioReference:
+      m_AssetGUID: c69c17b4c9080114b9702ab6dcef259c
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    PreloadAsset: 0
+    HasAssetReference: 1
+  - AssetName: fx_tx_well_done
+    LocalAssetName: fx_tx_well_done_pt
+    AddressableAudioReference:
+      m_AssetGUID: bcdfdc39a1994434c94a740ae942ad4d
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    PreloadAsset: 0
+    HasAssetReference: 1
+  - AssetName: fx_tx_wow
+    LocalAssetName: fx_tx_wow_pt
+    AddressableAudioReference:
+      m_AssetGUID: b726e88c010409a4cb83d1ef1cedfdec
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    PreloadAsset: 0
+    HasAssetReference: 1
+  - AssetName: fx_txnew_hello1_boy
+    LocalAssetName: fx_tx_hello1_boy_pt
+    AddressableAudioReference:
+      m_AssetGUID: ed757b013fbf97c478f2dffdc66e6bd3
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    PreloadAsset: 0
+    HasAssetReference: 1
+  - AssetName: fx_txnew_hello1_boybig
+    LocalAssetName: fx_tx_hello1_boy_pt
+    AddressableAudioReference:
+      m_AssetGUID: ed757b013fbf97c478f2dffdc66e6bd3
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    PreloadAsset: 0
+    HasAssetReference: 1
+  - AssetName: fx_txnew_hello1_girl
+    LocalAssetName: fx_tx_hello1_girl_pt
+    AddressableAudioReference:
+      m_AssetGUID: 090bdca8e0177fa4a8c12e10fdf98a20
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    PreloadAsset: 0
+    HasAssetReference: 1
+  - AssetName: fx_txnew_hello2_boy
+    LocalAssetName: fx_tx_hello1_boy_pt
+    AddressableAudioReference:
+      m_AssetGUID: ed757b013fbf97c478f2dffdc66e6bd3
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    PreloadAsset: 0
+    HasAssetReference: 1
+  - AssetName: fx_txnew_hello2_girl
+    LocalAssetName: fx_tx_hello2_girl_pt
+    AddressableAudioReference:
+      m_AssetGUID: b638c593972352a489dd92ce8b1847d3
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    PreloadAsset: 0
+    HasAssetReference: 1
+  - AssetName: fx_txnew_hello3_boy
+    LocalAssetName: fx_tx_hello1_boy_pt
+    AddressableAudioReference:
+      m_AssetGUID: ed757b013fbf97c478f2dffdc66e6bd3
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    PreloadAsset: 0
+    HasAssetReference: 1
+  - AssetName: fx_txnew_hello3_girl
+    LocalAssetName: fx_tx_hello1_girl_pt
+    AddressableAudioReference:
+      m_AssetGUID: 090bdca8e0177fa4a8c12e10fdf98a20
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    PreloadAsset: 0
+    HasAssetReference: 1
+  - AssetName: fx_txnew_hello4_boy
+    LocalAssetName: fx_tx_hello1_boy_pt
+    AddressableAudioReference:
+      m_AssetGUID: ed757b013fbf97c478f2dffdc66e6bd3
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    PreloadAsset: 0
+    HasAssetReference: 1
+  - AssetName: fx_txnew_hello4_girl
+    LocalAssetName: fx_tx_hello1_girl_pt
+    AddressableAudioReference:
+      m_AssetGUID: 090bdca8e0177fa4a8c12e10fdf98a20
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    PreloadAsset: 0
+    HasAssetReference: 1
+  - AssetName: fx_txnew_hello5_boy
+    LocalAssetName: fx_tx_hello1_boy_pt
+    AddressableAudioReference:
+      m_AssetGUID: ed757b013fbf97c478f2dffdc66e6bd3
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    PreloadAsset: 0
+    HasAssetReference: 1
+  - AssetName: fx_tx_airplane
+    LocalAssetName: fx_tx_airplane_pt
+    AddressableAudioReference:
+      m_AssetGUID: 9f40497e74f52c048bcd1ae85001a840
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    PreloadAsset: 0
+    HasAssetReference: 1
+  - AssetName: fx_tx_radish
+    LocalAssetName: fx_tx_radish_pt
+    AddressableAudioReference:
+      m_AssetGUID: 9a901aa553a3030439cabb887d2d9712
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    PreloadAsset: 0
+    HasAssetReference: 1
+  - AssetName: fx_tx_beautiful
+    LocalAssetName: fx_tx_beautiful_pt
+    AddressableAudioReference:
+      m_AssetGUID: 70a32f8d8bdcea843aa0b1527c7c094d
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    PreloadAsset: 0
+    HasAssetReference: 1
+  - AssetName: fx_tx_crane
+    LocalAssetName: fx_tx_crane_pt
+    AddressableAudioReference:
+      m_AssetGUID: 7c51fff74dcca0d44a0d0af05ff3b3bc
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    PreloadAsset: 0
+    HasAssetReference: 1
+  - AssetName: fx_tx_lets_draw
+    LocalAssetName: 
+    AddressableAudioReference:
+      m_AssetGUID: 
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    PreloadAsset: 0
+    HasAssetReference: 0
+  - AssetName: fx_tx_ship
+    LocalAssetName: fx_tx_ship_pt
+    AddressableAudioReference:
+      m_AssetGUID: 06dfb06c8deefd248808fc7303273c7d
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    PreloadAsset: 0
+    HasAssetReference: 1
+  - AssetName: fx_tx_taxi
+    LocalAssetName: fx_tx_taxi_pt
+    AddressableAudioReference:
+      m_AssetGUID: fd69b74e6c2f7e745bd58fc5e713baa3
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    PreloadAsset: 0
+    HasAssetReference: 1
+  - AssetName: fx_tx_title_fun_toys
+    LocalAssetName: fx_tx_toys_funtoys_pt
+    AddressableAudioReference:
+      m_AssetGUID: c19c1308b09028c40b3862de6bad2f4e
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    PreloadAsset: 0
+    HasAssetReference: 1
+  ModulesPath:
+    _folderPath: Assets\Modules
+    _folderAbsolutePath: F:/BebiAcademy/Assets/Modules
+    _folderGuid: 
+    _folderPathType: 1

@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4bdb28f25f957af4bbd42be492e25bb9, type: 3}
+  m_Name: DefaultPurchaseController
+  m_EditorClassIdentifier: 
+  _storeType: 10
+  _purchaseProductList:
+  - {fileID: 11400000, guid: b91dcbc7176a53d49a25fdb1065cb845, type: 2}
+  - {fileID: 11400000, guid: 8ee3a06c1d31cf644ae8e6e00e1904cf, type: 2}
+  - {fileID: 11400000, guid: 45015b333fa033f43a022ed9eaaf1913, type: 2}
+  - {fileID: 11400000, guid: 486e27be83410574897422707574a10c, type: 2}
+  - {fileID: 11400000, guid: 653d7d0aaa6bb07418720b142eaaef52, type: 2}
+  - {fileID: 11400000, guid: 1eab0b633ae5dac47af9d24721b1bcaa, type: 2}
+  - {fileID: 11400000, guid: dd0ae8c010d6ed54b9c9b7868b5d9f3b, type: 2}
+  - {fileID: 11400000, guid: 684edf18b27e41046a5b1ae8051a372d, type: 2}
+  - {fileID: 11400000, guid: eb60f3fe2765eb043b245ffaa017622b, type: 2}
+  - {fileID: 11400000, guid: 96df96850332aa9429f562720506bd52, type: 2}
+  - {fileID: 11400000, guid: 903a34f8beca78841936ddced37fb8cb, type: 2}
+  - {fileID: 11400000, guid: d94d9e6eacd3267499ee13409233f58d, type: 2}
+  - {fileID: 11400000, guid: c4efe9d29cec4614ca08ffe76ed6407a, type: 2}
+  - {fileID: 11400000, guid: e3256731a49c0de4d9d4cb0cd24724de, type: 2}
+  - {fileID: 11400000, guid: 24cc688d537072f4eb86fce2658886b3, type: 2}
+  - {fileID: 11400000, guid: ee4d42e759a78b741a31b2f1a0e73d0a, type: 2}
+  _userData: {fileID: 11400000, guid: 37d3dd5d92678974ab9f91ef2d283464, type: 2}
+  _purchaseHistoryData: {fileID: 11400000, guid: 76c21676a9665fd4eaa6b09881665504, type: 2}
+  _googleReceiptParser: {fileID: 11400000, guid: b6bae01b2a5602f40b2e98c650dda445, type: 2}
+  _appleReceiptParser: {fileID: 11400000, guid: 74ff7927e36d06f4c96b369ff0cc5122, type: 2}
+  _purchaseValidator: {fileID: 11400000, guid: c9bd115a4a806884490317809f34a959, type: 2}
+  _localPurchaseDataList: []
+  _useLocalTestPurchaseData: 0
+  _failTestPurchase: 0
+  _callTestProcessPurchase: 0
+  _alwaysSuccessProductList:
+  - {fileID: 11400000, guid: d94d9e6eacd3267499ee13409233f58d, type: 2}
